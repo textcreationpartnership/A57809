@@ -1,0 +1,587 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers refuge fixed upon the rock of ages, though the swelling waters dash never so violently to overturn it wherein is prov'd, that the narrative of Ralph James is an absolute lying-wonder, according to his own definition : and also, the great controversie between the people of God called Quakers, and others, about the holy spirit of God and the Scriptures, truly stated, and very briefly discoursed, as it is owned by the Quakers, and the truth cleared from the false suggestions and deceitful insinuatins of the anabaptists about the said controversie : in answer to a subtil pamphlet, lately published, intituled, The Quakers subterfuge or evasion overturned : also a few queries propounded unto Ralph James, and the author of the subterfuge &amp;c. / by Robert Ruckhill ; to which is added another postscript in answer to some queries propounded in the said pamphlet, wherein many untruths are suggested ; but herein the truth is cleared, and the evasion and deceit of the Baptists made more fully manifest by John Whitehead.</title>
+            <author>Ruckhill, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57809</idno>
+            <idno type="STC">Wing R2169</idno>
+            <idno type="STC">ESTC R21457</idno>
+            <idno type="EEBO-CITATION">12361385</idno>
+            <idno type="OCLC">ocm 12361385</idno>
+            <idno type="VID">60228</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57809)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60228)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 646:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers refuge fixed upon the rock of ages, though the swelling waters dash never so violently to overturn it wherein is prov'd, that the narrative of Ralph James is an absolute lying-wonder, according to his own definition : and also, the great controversie between the people of God called Quakers, and others, about the holy spirit of God and the Scriptures, truly stated, and very briefly discoursed, as it is owned by the Quakers, and the truth cleared from the false suggestions and deceitful insinuatins of the anabaptists about the said controversie : in answer to a subtil pamphlet, lately published, intituled, The Quakers subterfuge or evasion overturned : also a few queries propounded unto Ralph James, and the author of the subterfuge &amp;c. / by Robert Ruckhill ; to which is added another postscript in answer to some queries propounded in the said pamphlet, wherein many untruths are suggested ; but herein the truth is cleared, and the evasion and deceit of the Baptists made more fully manifest by John Whitehead.</title>
+                  <author>Ruckhill, Robert.</author>
+                  <author>Whitehead, John, 1630-1696.</author>
+               </titleStmt>
+               <extent>52 [i.e. 51] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James, Ralph, 17th cent.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+               <term>Anabaptists.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60228:1" rendition="simple:additions"/>
+            <p>THE QUAKERS REFUGE Fixed upon the Rock of Ages, Though the Swelling Waters Daſh never ſo Vio<g ref="char:EOLhyphen"/>lently to Overturn it.</p>
+            <p>Wherein is prov'd, that the <hi>Narrative</hi> of <hi>Ralph James</hi> is an abſolute <hi>Lying-Wonder,</hi> according to his own <hi>Definition.</hi>
+            </p>
+            <p>And alſo, The great Controverſie between the People of God called <hi>Quakers,</hi> and others, about the holy Spirit of God and the Scriptures; truly ſtated, and very briefly discourſed, as it is owned by the <hi>Quakers.</hi>
+            </p>
+            <p>And the Truth Cleared from the <hi>Falſe Suggeſtions</hi> and <hi>De<g ref="char:EOLhyphen"/>ceitful Inſinuations</hi> of the <hi>Anabaptiſts</hi> about the ſaid <hi>Controverſie.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Anſwer to a ſubtil <hi>Pamphlet,</hi> lately publiſhed, Intituled, <hi>The Quakers Subterfuge or Evaſion Overturned.</hi>
+            </p>
+            <p>Alſo, A few <hi>Queries</hi> propounded unto <hi>Ralph James,</hi> and the Au<g ref="char:EOLhyphen"/>thor of the <hi>Subterfuge,</hi> &amp;c. <hi>By</hi> ROBERT RUCKHILL.</p>
+            <p>To which is added another Poſtſcript in Anſwer to ſome Queries propounded in the ſaid Pamphlet, wherein many Untruths are ſuggeſted; but herein the Truth is cleared, and the Evaſion and Deceit of the <hi>Baptiſts</hi> made more fully ma<g ref="char:EOLhyphen"/>nifeſt.</p>
+            <p>
+               <hi>By</hi> JOHN WHITEHEAD.</p>
+            <q>The Lip of Truth ſhall be Eſtabliſhed forever; but a Lying Tongue is but for a Moment,
+<bibl>
+                  <hi>Prov. 12.19.</hi>
+               </bibl>
+            </q>
+            <q>Righteous Man hateth Lying Words; but the Wicked cauſeth Slan<g ref="char:EOLhyphen"/>der and Shame,
+<bibl>
+                  <hi>Prov. 13.5.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year, 1673.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:60228:2"/>
+            <pb n="3" facs="tcp:60228:2"/>
+            <opener>
+               <salute>Honeſt Impartial Reader;</salute>
+            </opener>
+            <p>WHen firſt the<note n="*" place="margin">There being about Nine Years between the Generation and the Birth.</note> 
+               <hi>Monſtrous Production</hi> of the <hi>Anabaptiſts Lying-Wonder</hi> (extant in their Narrative and prefixed Letters) had ſo Vigorouſly alarum'd, the Na<g ref="char:EOLhyphen"/>tion; I was under ſome exerciſe of Mind, as having the Ground and Deſign of the <hi>Anabaptiſts</hi> opened in me in that their Undertaking, which I feared could not be ſo ob<g ref="char:EOLhyphen"/>vious to that Southern Friend, who was firſt engag'd in the Detection of their Slanders, by reaſon of his remote Reſidence from thoſe Parts, where thoſe things were pretended to be acted.</p>
+            <p>But when I had ſeen the firſt and ſecond Books of <hi>T. R.</hi> where their Deceits were ſo evidently diſcovered, and ſo ſig<g ref="char:EOLhyphen"/>nally detected (although their Ground was not ſo much percei<g ref="char:EOLhyphen"/>ved) I did acquieſce in a patient Hope, and Expectation of a Succesful Iſſue on the Truth's behalf.</p>
+            <p>Afterwards came forth another Book, put forth, as I con<g ref="char:EOLhyphen"/>ceive, by a Clandeſtine Author, intituled, <hi>The Quakers Sub<g ref="char:EOLhyphen"/>terfuge or Evaſion Overturned, &amp;c.</hi> whereat I was much ſtirred in mind, to obſerve ſomewhat concerning the ſaid Book, but was ſtill ſtay'd by a certain Expectation, ſhortly to ſee the An<g ref="char:EOLhyphen"/>ſwer by that Friend who was already engaged in that Service. But being at <hi>Lincoln</hi> the 25th of <hi>December</hi> laſt, where I expected to have ſound the ſaid Anſwer, I not onely underſtood that the Book was unanſwered; but (much contrary to my Expecta<g ref="char:EOLhyphen"/>tion)
+<pb n="4" facs="tcp:60228:3"/>the Work it ſelf brought to my Hands, which I accepted not without Fear and Trembling: wherefore my Soul humbly implores the Aſſiſtance of the Eternal Wiſdom, without which I am both unable and unfit to do Him any Service.</p>
+            <p>And now Reader, ſith the all-diſpoſing Providence has thus or<g ref="char:EOLhyphen"/>der'd things, I ſhall candidly addreſs my ſelf to communicate unto thee (and to the whole Nation, if they pleaſe) what I have obſerv'd to be the original true Ground and Cauſe, why the <hi>Anabaptiſts</hi> at this Seaſon ſhould produce their <hi>Lying-Wonder,</hi> which the Author in hand affirms was brought ONLY to oppoſe the ſpirit of Falſhood in <hi>Richard Anderſon;</hi> when as about Nine Years, by this Authors Confeſſion, have expir'd ſince the Matter contain'd in their Narrative was acted; ſee their <hi>Subterfuge, p. 9 &amp; 13.</hi> Surely, if the <hi>Anabaptiſts</hi> had been as ſlow in the cure of <hi>Leproſies, Pains, Exſtaſies, &amp;c.</hi> as they have been in oppoſing <hi>R.A</hi>'s falſe ſpirit, what had become of him, his Le<g ref="char:EOLhyphen"/>prous Child, Wife and Family, or of <hi>Mary Brown,</hi> long ere this day? But I proceed.</p>
+            <p>About the <hi>26th</hi> day of the 6th Moneth, <hi>1669.</hi> was the Diſpute at <hi>Wrawby</hi> (mention'd by the <hi>Anabaptiſts</hi>) and upon the laſt day of the ſame Moneth, <hi>William Smith</hi> of <hi>Eltham</hi> late a Brother of the <hi>Baptiſts;</hi> but now a faithful Follower of the Light of Chriſt, that Light of the World) gave forth a Writing thus dedicated:</p>
+            <p>
+               <hi>To all ſuch as deny, that the holy Spirit ought to be Supream Judge in Man, and in Matters of Faith above the holy Scriptures.</hi>
+            </p>
+            <p>This was directed in particular to <hi>Ralph James</hi> and <hi>John
+<pb n="5" facs="tcp:60228:3"/>Kirk by</hi> of <hi>Brigg;</hi> but they have not anſwer'd it to this day, though <hi>J. K.</hi> did promiſe to anſwer it. At laſt (after ſome Provocation uſed) <hi>J. K.</hi> writes a reviling Letter, about <hi>17</hi> Months after, while <hi>R. James</hi> is imply'd to bring forth into the World this Monſtrous Birth, the <hi>Narrative,</hi> which had lain in the dark womb of Oblivion about <hi>9.</hi> Years; thus (after the mode of Antichriſt) to eſtabliſh their falſe Doctrines by Signs and Lying Wonders, &amp; at one fatal Blow to aſſaſſinate the Innocent Name &amp; Cauſe of the <hi>Quakers</hi> forever.</p>
+            <p>In this ſeeming Diſtreſs the <hi>Quakers</hi> flee to the Name of the Lord, their ſtrong Tower, there to repoſe in Safety, until a juſt Defence might advance in their Vindication, which no ſooner ap<g ref="char:EOLhyphen"/>pears under the hand of <hi>T. R.</hi> but preſently advances another Oppoſer of God's Everlaſting Truth, charges the <hi>Quakers</hi> in their chiefeſt Strength, intending by fine Force to overturn their Sub<g ref="char:EOLhyphen"/>terfuge, and render them obnoxious to the Purſuit and Chaſe (at leaſt) of every inſulting Enemy, that none might forever hereaf<g ref="char:EOLhyphen"/>ter dare to aſſert the Dignity and Power of the Spirit of God above the Writings of Men, leſt their Children ſhould be ſmitten with <hi>Leproſie,</hi> and themſelves with <hi>intolerable Pains.</hi> This (R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ader) is the Ground and Deſign (as I perceive) of the <hi>Ana<g ref="char:EOLhyphen"/>baptiſts</hi> Envy and Wrath againſt an Innocent People; and in all probability, had it not been for the Writing aforeſaid (which they have not been able to anſwer, and are therefore vex'd and gaul'd) the Matter of their <hi>Narrative</hi> and <hi>Lying-Wonder</hi> might have rotted in the Grave forever, without all Hope of a Reſurrection; whereas now (after the Second Death thereof) it muſt unburied ſtink above Ground, to the Shame and Reproach of the <hi>Anabap<g ref="char:EOLhyphen"/>tiſts</hi> in all ſucceeding Generations.</p>
+            <pb n="6" facs="tcp:60228:4"/>
+            <p>For the Truth on the <hi>Quakers</hi> behalf, and the <hi>Anabaptiſts</hi> Deceits, are ſo Perſpicuous (in two Books written by <hi>T. R.</hi> in<g ref="char:EOLhyphen"/>tituled, <hi>The Anabaptiſts Lying-Wonder;</hi> and, <hi>The Anabaptiſts Preacher Unmask'd:</hi> unto the ſerious Peruſal whereof I refer the Reader for ample Satisfaction) that its ve<g ref="char:EOLhyphen"/>rily hoped, their Envy againſt us in this Particular will not ſur<g ref="char:EOLhyphen"/>vive another <hi>Paroxiſm.</hi> Lets therefore leave it on its Death-Bed a while, and examine, what conſiderable Supplies the Author under Conſideration hath brought to their Dying Cauſe, in his laſt Expedition.</p>
+            <closer>
+               <dateline>
+                  <hi>From</hi> Adlingfleet <hi>in</hi> Merce<g ref="char:EOLhyphen"/>land, <date>
+                     <hi>the 8th day of the 11th Moneth, 1672.</hi>
+                  </date>
+               </dateline>
+               <signed>Robert Ruckhill.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:60228:4"/>
+            <head>THE Quakers Refuge Fixed upon the Rock of Ages, &amp;c.</head>
+            <p>FOraſmuch as the Matter of Fact, with its Cir<g ref="char:EOLhyphen"/>cumſtances contain'd in the two firſt Books of the <hi>Anabaptiſts,</hi> with the Additions; and alſo, ſo much as concerns their Croſs Examination of their own Member <hi>Richard Anderſon,</hi> extant in this Book now under ſearch, called, <hi>The Quakers Subterfuge, &amp;c.</hi> hath been ſufficienly anſwer'd by my Friend <hi>T. R.</hi> I ſhall not need <hi>pedetentim</hi> to tract this Author, onely ſhall en<g ref="char:EOLhyphen"/>deavour to wipe away that immerited Aſpertion of Un<g ref="char:EOLhyphen"/>truth and Immodeſty, which the Author under hand hath caſt upon the <hi>Title Page</hi> of <hi>T. R</hi>'s Book, by proving their Narrative to be worthily ſtiled, <hi>The Anabaptiſts Lying-Wonder,</hi> and ſo proceed to ſuch other Particulars as lie in my way.</p>
+            <p>That the Narrative of <hi>R. James</hi> is deſervedly called, <hi>A Lying-Wonder</hi> (and that by their own Definition of a Lying-Wonder) appears thus.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe it is Falſe in it ſelf. <hi>2dly,</hi> It is brought to maintain a Falſhood. <hi>3dly,</hi> To Oppoſe a Truth.</p>
+            <pb n="8" facs="tcp:60228:5"/>
+            <p>That the Narrative is Falſe in it ſelf, hath abundant<g ref="char:EOLhyphen"/>ly appeared in the two Books of <hi>T. R.</hi> beforeſaid, both by Teſtimonies &amp; Certificates ſufficiently witneſſed, be<g ref="char:EOLhyphen"/>yond all Contradiction. But in regard this Author, and ſome <hi>Independents</hi> in theſe Parts ſtill urge, <hi>That</hi> Rich. Anderſon <hi>was a</hi> Quaker, <hi>at leaſt in Principle;</hi> let's hear what they ſay for themſelves, wherefore they ſhould be believed.</p>
+            <p>This Author in the 10th page of his <hi>Subterfuge</hi> urgeth, <hi>That</hi> R. A. <hi>was a</hi> Quaker <hi>n Principle, and that for theſe Reaſons. Firſt, In that he reſtifies at a high rate for the Light Within.</hi> 2. <hi>In that he hath proclaimed the</hi> Quakers <hi>to be the People of God, and owned of God, as was</hi> Moſes. 3. <hi>Be<g ref="char:EOLhyphen"/>cauſe</hi> R. A. <hi>went in the Conceits of his own Heart on an Unſent Errand.</hi> But what's this to the <hi>Quakers?</hi>
+            </p>
+            <p>Here is all the united Strength the <hi>Anabaptiſts</hi> and other Profeſſors are able to make, to prove <hi>R. A.</hi> a <hi>Qua<g ref="char:EOLhyphen"/>ker:</hi> But will theſe poor Remains of their ſhattered For<g ref="char:EOLhyphen"/>ces do it? Surely nay. Will the Devil's frequent and open Confeſſion, <hi>that Chriſt is the Holy One of God,</hi> prove him to be a <hi>Chriſtian?</hi> Or will that <hi>Pythoniſs</hi> (<hi>Acts</hi> 16.) her following <hi>Paul</hi> and <hi>Silas</hi> many dayes (perhaps more then they affirm <hi>R. A.</hi> converſed with the <hi>Quakers</hi>) crying, <hi>Theſe Men are the Servants of the Moſt High God, which ſhew unto you the Way of Salvation,</hi> prove her a true Proſelite, and Convert to that <hi>Way of Salvation,</hi> unto which (with the Preachers thereof) ſhe had born ſo clear a Teſti<g ref="char:EOLhyphen"/>mony? Let the Sober-minded judge. And if ſo ample Te<g ref="char:EOLhyphen"/>ſtimonies (as clear and full as any they inſtance <hi>R. A.</hi> gave to the <hi>Quakers</hi>) will not prove the ſaid Concluſions; then let Shame cover the Faces of the <hi>Anabaptiſts,</hi> and their <hi>envious Confederates,</hi> until they have Repented, and
+<pb n="9" facs="tcp:60228:5"/>taken as much Pains in the Vindication of God's Eter<g ref="char:EOLhyphen"/>nal Truth, owned by the <hi>Quakers,</hi> as they have taken in Oppoſing it.</p>
+            <p>Neither ought <hi>R. Anderſon</hi> his pronouncing <hi>R. J.</hi> a Leper (from the conſideration of a Scripture, as he con<g ref="char:EOLhyphen"/>feſſeth, and they own, ſee <hi>Subterfuge.</hi> p. 11. and then not ſent by the Light the <hi>Quakers</hi> witneſs to (to their own Contradiction) as they before ſuggeſted) nor his falfe Pretending to Heal the Sick, which they urge he attempted, but ſail'd, I ſay, neither of theſe ought of Right to reflect upon the Principles or Doctrines of the <hi>Quakers,</hi> or prove him one of their Prophets, any more then the Sons of <hi>Sceva</hi> the <hi>Jew,</hi> their naming over them that had Evil ſpirits, the Name o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Je<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us and <hi>Paul,</hi> was re<g ref="char:EOLhyphen"/>flective upon the Principles and Doctrine of <hi>Paul,</hi> or proved them to be Prophets of the <hi>Chriſtians;</hi> who, though they were not ſmitten with Leproſie, or other in<g ref="char:EOLhyphen"/>ward Pains, <hi>yet got they their Coates rent off their Backs, and their Bones Beaten for their Preſumption.</hi>
+            </p>
+            <p>Thus it is manifeſt, their <hi>Narrative</hi> is falſe in reſpect of the Father; and no truer in the Child, which <hi>R. J.</hi> affirms (in his <hi>Narrative</hi>) was ſmitten all over with <hi>Spots,</hi> which they call <hi>Leproſie,</hi> and ſince <hi>Dead,</hi> as his Letter affirms; but now (after their Croſs Examinati<g ref="char:EOLhyphen"/>on of <hi>R. A.</hi>), they are glad with Shame enough to ex<g ref="char:EOLhyphen"/>change their <hi>Lepreſie</hi> for a <hi>Simple Sore;</hi> and the <hi>Dead Child</hi> is yet <hi>Above</hi> to the ſhame of choſe Impoſtors, were they not paſt Shame. See <hi>Subterfuge,</hi> p. 13.</p>
+            <p>As Impious alſo is their Pretence, <hi>That the Child was ſmitten with Leproſie for the Father's Offence</hi> (ſith <hi>R. A.</hi> has affir<g ref="char:EOLhyphen"/>med before two credible Witneſſes, men of honeſt Repu<g ref="char:EOLhyphen"/>tion, namely, <hi>Tho. Markam</hi> and <hi>Edw. Gilliat,</hi> both of <hi>Brigg,
+<pb n="10" facs="tcp:60228:6"/>That the Sore</hi> (which they call Leproſie) <hi>was upon the Child ſome time before the Father pronounced the</hi> Leproſie. And the Truth of this is yet further demonſtrable from <hi>R. Anderſon</hi>'s own word, as recited by this Author him<g ref="char:EOLhyphen"/>ſelf in the 13th page of his <hi>Subterſuge,</hi> where (as in a vain flouriſh pretending to produce ſome conſidera<g ref="char:EOLhyphen"/>ble Proof of the Child's Reproſie) he hath theſe words, <hi>But now</hi> (ſaith he) <hi>let us hear what</hi> R. Anderſon <hi>himſelf ſaith, who being asked (by their own Witneſſes there named) Whether he had not a Child that was ſmitten with Leproſie, after he had pronounced</hi> R. James <hi>a Leper? R. Anderſon</hi> anſwers (as this Author records it) <hi>That he had a Child</hi> THEN, <hi>that did break out into Sores.</hi> Mark Reader, he does not anſwer directly to the Queſtion, as they ex<g ref="char:EOLhyphen"/>pected he would; for then he ſhould have ſaid, His Child was ſmitten with Leproſie afterwards; but on the contrary, his Anſwer clearly implies what is before proved, (viz.) <hi>That the Child had the Sore upon it even</hi> THEN, <hi>when the Father pronounced the Leproſie.</hi> And here <hi>R. James</hi> and his Adherents have not onely Abuſed the World with their <hi>Lying-Wonder,</hi> but alſo falſly Accuſed the Impartial Juſtice of the Moſt Righteous God, who ne<g ref="char:EOLhyphen"/>ver yet would edge the Teeth of any Child, when the Fa<g ref="char:EOLhyphen"/>ther only had eaten Sower Grapes; much leſs would ſmite an Innocent Child, for the Father's Offence, with ſo Sore a Puniſhment as <hi>Spots,</hi> which they call <hi>Leproſie,</hi> all over, whilſt yet the <hi>Father's Sin was not Committed.</hi> Let every ſober man conſider what ſpirit theſe men are of.</p>
+            <p>As for the <hi>Eye</hi> and <hi>Ear-witneſſes</hi> of the Aſſlictions of <hi>R. A.</hi> &amp; his Family, which the <hi>Quakors</hi> with good Reaſon call'd for, this Author proceeds in his old mode of Subtilty; and inſtead of producing them, he tells us, <hi>That there are Neigh<g ref="char:EOLhyphen"/>bours
+<pb n="11" facs="tcp:60228:6"/>that ſay, They dore member ſome Afflictions in</hi> R. A<hi>'s Fa<g ref="char:EOLhyphen"/>mily about Nine Years ſince, but would not be brought into Que<g ref="char:EOLhyphen"/>ſtion, &amp;c.</hi> Would any man in his Wits bring ſuch pit<g ref="char:EOLhyphen"/>tiful ſtuff, as this in ſuch a Concern? Who knows not, but moſt Families, where Children are, at one time or another are under ſome Affliction? This is juſt like the Author. But doubtleſs, if he had any Witneſ<g ref="char:EOLhyphen"/>ſes to the Purpoſe, he would not fail to produce them in ſuch a Caſe as this, where the Credit of their whole Party lies at ſtake: therefore ſince he produceth none, Reaſon muſt needs conclude, he hath none; for in ſuch Caſes the Maxim hold true, <hi>De non apparentibus et non ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ibus eadem eſt Ratio.</hi>
+            </p>
+            <p>And thus, as their Narrative is proved ſalfe in it ſelf, ſo it was brought to maintain all the Falſhood, before ſaid, to wit, <hi>concerning</hi> R. A<hi>'s Leprous Child, afflicted Family, and the Manner of their Healing;</hi> all proved Falſhoods: And it was brought to oppoſe this Truth, that the holy Spirit of God is the only true Standard to Judge and try both the Scripture, and all other ſpirits, and doctrines by. And that this is ſubſtantiall Truth, by the aſſiſtance of the ſame holy Spirit I ſhall prove, when I come to ſtate the great Controverſie. In the mean time both my ſelf, and all unbyas'd perſons may ſafely and modeſtly conclude, that the Narrative of <hi>R. James</hi> is <hi>a Lying won<g ref="char:EOLhyphen"/>der,</hi> and that the Title of <hi>T. R.</hi> his Book is True.</p>
+            <p>And here it well worth our ſerious Obſervation, what a near Reſemblance there is between the <hi>Ana<g ref="char:EOLhyphen"/>baptiſts,</hi> in their precited Impoſtures, and pretended Cures of <hi>R. A.</hi> and his Family, <hi>Mary Brown,</hi> &amp;c. and the old <hi>Popiſh Prieſts</hi> and <hi>Friars</hi> in times paſt, with their Conſederate Impoſtors and Cheats, as the <hi>Boy of Bilſon,</hi>
+               <pb n="12" facs="tcp:60228:7"/>and other Female Impoſtors, who ſeemed to be poſſeſ<g ref="char:EOLhyphen"/>ſed with ſtrange Devils;<note place="margin">See the Book called, <hi>A Guide to Grand-Jury-Men,</hi> publiſhed by a Perſon of Reputation — <hi>Barnerd</hi> of <hi>Batcomb.</hi>
+               </note> they acted Mad Prancks, even beyond Wonder, and Strange Frisks, above Admiration: but then, in the height of all their Counterfeit Extaſies, and ſeeming deplorable Paſ<g ref="char:EOLhyphen"/>ſions, in comes the Exorciſing Prieſt with his, <hi>Et ver<g ref="char:EOLhyphen"/>bum caro factum eſt,</hi> and with that as with an effectual Charm, ſets all at rights again, to the great Honour and Reputation of his declining Religion. How near a kin the Practices of theſe Parties are (however different in their Principles) I will not take upon me to determine, but leave it to their own Conſideration, that they may unfeignedly Repent, and do ſo no more; only ſhewing this Difference between them, <hi>That the</hi> Anabaptiſts <hi>by preaching the Fleſh of Chriſt, put their</hi> Mary Brown <hi>into her Stiff-necked Extaſie, and Delphick Fit: But the other cured their Confederates by the ſame Means.</hi> See the Narrative of that Edition, where the Story of <hi>M. B.</hi> is, pag. 15. and the Title Page.</p>
+            <p>In the next place is conſiderable, what a great Noiſe (to no purpoſe) this Author makes about the Evidences brought by the <hi>Quakers</hi> to invalidate the Narrative, and affirms, <hi>that they are either abuſed, or forged;</hi> but in<g ref="char:EOLhyphen"/>ſtead of proving this Charge, he meerly trifles, and ſpends two whole Pages to no purpoſe at all: but ſure he either hath not ſeen, or elſe will not ſee T. R. his 2d Book, wherein there are ſo full and pregnant Teſti<g ref="char:EOLhyphen"/>monies and Certificates, and ſo candidly obtain'd, that Envy it ſelf cannot detect them. And here <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſith it's no more then Juſtice and Duty to render unto all men their
+<pb n="13" facs="tcp:60228:7"/>Due, I cannot (without the merited Reproach of Odious Ingratitude and Injuſtice) any longer deſer the Payment of the juſt Debt of a Sober Acknowledgment of that Generoſity and Nobleneſs of Mind, which at that time Appeared in an old Acquaintance Doctor <hi>Lincoln</hi> Parſon of <hi>Panton,</hi> where R. A. dwells, who calling the ſaid Richard <hi>Anderſon</hi> in the preſence of above twenty of his Neigh<g ref="char:EOLhyphen"/>bours into the open Street, there publickly examined <hi>R. A.</hi> in the preſence of his Neighbours, and before five other Witneſſes concerning all things, in the ſaid Certi<g ref="char:EOLhyphen"/>ficate expreſſed, and after a full hearing of the whole matter, diſmiſſed the five Witneſſes with words to this Effect.</p>
+            <p>
+               <q>Gentlemen (ſay<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> he) you have heard the Exami<g ref="char:EOLhyphen"/>nation and Teſtimons o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>R. A.</hi> concerning the Buſineſs, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e are come to enquire about, I know you will improve it to the beſt Advanture of your cauſe, I perceive ſome of you are come very <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar, therefore being unwilling you ſhould return without good Satisfaction, I have taken this pains with him. <hi>Anderſon</hi> cannot deny, what he hath here teſtified before us all, but if he ſhould recede from any thing he hath ſaid, we ſhall all bear witneſs againſt him.</q> Thus Dr. <hi>Lincoln:</hi> and I hope it will be no offence to him, or any of his Friends, that I have thus far preſumed (in diſcharge of my duty) to render him his due.</p>
+            <p>Hereupon the five Witneſſes above ſaid ſet down twelve of the Neighbours Names, who were there pre<g ref="char:EOLhyphen"/>ſent, not as Witneſſes, but as Indifferent Spectators of the whole Tranſaction, to the end that if any Perſon ſee<g ref="char:EOLhyphen"/>ing the Certificate, ſhould Queſtion or Scruple the truth of any thing there ſpecified, by having recourſe
+<pb n="14" facs="tcp:60228:8"/>to any or all the perſons there nominated, they might with more Facility inform themſelves of the Verity of all things there certified: this was their real End in ſet<g ref="char:EOLhyphen"/>ting down the Names, without the leaſt Purpoſe of In<g ref="char:EOLhyphen"/>jury or Offence unto any, as (its ſaid) ſome do indiſcretly ſurmize: and becauſe one Book may come where ano<g ref="char:EOLhyphen"/>ther does not, I conceive it not amis to inſert the ſaid Cer<g ref="char:EOLhyphen"/>tificate in this place.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <head>The Certificate.</head>
+                        <p>
+                           <hi>THeſe are to certifie all Perſons, that deſire to know the Truth, That upon the Six and Twentieth Day of the Moneth called</hi> June, 1672. Richard Anderſon <hi>of the Town of</hi> Panton <hi>in</hi> Lincoln ſhire, <hi>in the Preſence of above Twenty of his Neighbours, Dr.</hi> Lincolne, <hi>Parſon of the Pariſh, being alſo preſent, did declare, That he never was at a</hi> Qua<g ref="char:EOLhyphen"/>kers <hi>Meeting, but Once in his Life time; and that at an Aſ<g ref="char:EOLhyphen"/>ſize-time at the Caſtle of</hi> Lincoln <hi>he did hear them de<g ref="char:EOLhyphen"/>clare about a Quarter of an Hour, and ſaith, that</hi> Ralph James <hi>was then with him; and further ſaith, That he never was a</hi> Quaker, <hi>nor owned by any of that People; for, he ſaith, they never knew him: and further did affirm, That he had no Child Leprous; and that Child the</hi> Baptiſts <hi>did ſay was Leprous, and ſince Dead, he ſhewed us alive, and in Health: and the ſaid</hi> R. Anderſon, <hi>and his Neighhours did unanimouſly affirm, That the Child had not any Deproſie, nor other Diſtemper, ſave only ſome Running Sore, which was cured by Directions from one called Ms.</hi> Bouer, <hi>ſo far as they underſtand: the ſaid</hi> R. Anderſon <hi>further affirming, that neither himſelf, nor
+<pb n="15" facs="tcp:60228:8"/>any of his Family were troubled with any ſuch Painful Diſtem<g ref="char:EOLhyphen"/>per, as the</hi> Baptiſts <hi>ſay they had. Theſe things were not only affirmed by the Man himſelf, but confirmed alſo by divers Inha<g ref="char:EOLhyphen"/>hitants of the Town, in the open Street in</hi> Panton <hi>in</hi> Lincoln<g ref="char:EOLhyphen"/>ſhire.</p>
+                        <closer>
+                           <signed>
+                              <hi>The Five Witneſſes then and there preſent;</hi>
+                              <list>
+                                 <item>William Garland,</item>
+                                 <item>Joſeph Pope,</item>
+                                 <item>Auguſtine Smith,</item>
+                                 <item>William Baldwin,</item>
+                                 <item>Nathaniel Ball.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Theſe Perſons, whoſe Names are under-written, were Inhabitants in <hi>Panton,</hi> and preſent at the Exami<g ref="char:EOLhyphen"/>nation and Anſwers of <hi>Richard Anderſon,</hi> before Doctor <hi>Lincoln</hi> their Parſon; and they, with divers others then preſent, ſaid, <hi>If</hi> Anderſon <hi>altered from what he had there ſaid, they ſhould be Witneſſes againſt him, and aſſert what is above certified.</hi>
+            </p>
+            <list>
+               <item>William Dorrin,</item>
+               <item>Robert Minto,</item>
+               <item>Henry Walch,</item>
+               <item>John Emming,</item>
+               <item>Robert Drink,</item>
+               <item>Richard Walesby,</item>
+               <item>Richard Horton,</item>
+               <item>Katherine Hall,</item>
+               <item>Samuel Mathers,</item>
+               <item>George Anderſon,</item>
+               <item>James Hall,</item>
+               <item>John Chapman.</item>
+            </list>
+            <p>Now it being ſo eminently cleare, that <hi>R. Anderſon</hi> never was a <hi>Quaker,</hi> neither in Principle nor Practice; I demand, what though <hi>R. A.</hi> pronounced <hi>R. James</hi> a leper? What though his Child had been Leprous? What though himſelf, his Wiſe and his Family were afflicted with grevious Pains? what though <hi>Ralph James</hi>
+               <pb n="16" facs="tcp:60228:9"/>and his Brethren had cured them? Yet what were all this to the <hi>Quakers?</hi> How is this reflective upon them, who are wholy unconcerned in <hi>R. Anderſon?</hi> For if <hi>R. A.</hi> were any thing at all, he was moſt certainly an <hi>Anabap<g ref="char:EOLhyphen"/>tiſt,</hi> whereof <hi>T. R.</hi> in both his Books hath given evident Demonſtration.</p>
+            <p>Upon the whole matter it's worth remarking;</p>
+            <p>
+               <hi>Firſt,</hi> That the Glory of the <hi>Anabaptiſt</hi> Churches is in its ſwift Declination toward the Weſtern Horizon; foraſmuch as they are ſai to fly to <hi>Signs</hi> and <hi>Lying Won<g ref="char:EOLhyphen"/>ders</hi> to oppoſe the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th, and to countenance their falſe Wayes and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>trines.</p>
+            <p>
+               <hi>Secondly,</hi> That the <hi>Anabaptiſts</hi> Cauſe in this hot Con<g ref="char:EOLhyphen"/>flict between them and the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>akers,</hi> is now at the very utmoſt Criſis <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this Champion (who is moſtly ingaged, when the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe grows deſperate) is con<g ref="char:EOLhyphen"/>ſtrain'd (in ſo eminent a Danger) to make uſe of ſuch poor Matter, ſuch pittifull ſhifts as are the Contents of this whole book now under tryal, to the great Regret (doubtleſs) of their whole Party, or ſuch of them as have not yet ſacrificed their Intellects to their Envy. For it was fooliſhly boaſted by divers Profeſſors, and others, <hi>That the Book now under examination would be like</hi> Hercules<hi>'s Club, or</hi> Goliah<hi>'s Spear;</hi> in a word, <hi>Unanſwerable:</hi> And this brings me to the very Heart of the great Controver<g ref="char:EOLhyphen"/>ſie, <hi>Whether the Holy Spirit, or the Scriptures ought to have Priority?</hi>
+            </p>
+            <div type="part">
+               <pb n="17" facs="tcp:60228:9"/>
+               <head>The Controverſie between the <hi>Anabaptiſts, Inde<g ref="char:EOLhyphen"/>pendents,</hi> together with other Profeſſors, &amp; the People of God called (in Scorn) <hi>Quakers,</hi> concerning the Authority of the <hi>Holy Spirit,</hi> in Judging or Diſcerning the Mind of God in the <hi>Holy Scriptures,</hi> truly ſtated as owned by the <hi>Quakers.</hi>
+               </head>
+               <p>WHether the firſt Pen-man of the Scriptures was <hi>Moſes</hi> or <hi>Hermes,</hi> or whether both theſe are not one; or whether there are not many words contained in the Scriptures, which were not ſpoken by Inſpiration of the Holy Spirit; whether ſome words were not ſpoken by the grand Impoſtor; ſome by Wicked Men; ſome by Wiſe Men, ill applied; ſome by Good Men, ill expreſſed, ſome by Falſe Pro<g ref="char:EOLhyphen"/>phets, and yet true; ſome by True Prophets, and yet falſe, is not the Subject of my Argument at this time: But ſuch Scriptures and Prophecyes as have been written and propheſied by the Holy Men of God, as they were moved by the Spirit of God, treating of the Myſtery of God in the Redemption and Salvation of Mankind by Jeſus Chriſt, and the Duty of Man in his Obedience to, and Worſhip of the ſame God, as his reaſonable Ser<g ref="char:EOLhyphen"/>vice for the Gift of ſo great Salvation, are the great Concerns now under our moſt ſerious Conſideration.</p>
+               <p>The People of God (ſcornfully called <hi>Quakers</hi>) have unſeignedly believed, and often declared to the World,
+<pb n="18" facs="tcp:60228:10"/>
+                  <hi>That the Scriptures</hi> (as above diſtinguiſhed) <hi>are a true Re<g ref="char:EOLhyphen"/>cord and Declaration of the Love of God in the Redemption and Salvation of Mankind by Jeſus Chriſt; and alſo of the Du<g ref="char:EOLhyphen"/>ty of Man</hi> (as before recited) But they alſo believe, and have declared to all the World, <hi>That the Carnal Mind of Man</hi> (being at Enmity with God, and darkened by rea<g ref="char:EOLhyphen"/>ſon of Wicked Works) <hi>cannot perceive nor diſcern the Myſtery of God in the Scriptures declared and teſtified of:</hi> For there is a Vail ſpread over the Hearts of all Men, even in their Reading of the Scriptures, ſo as they can<g ref="char:EOLhyphen"/>not ſee through the Letter unto the Myſtery, either in aboliſhing the old Covenant, with its carnal Ordinances, and Beggarly Elements; or in introducing the new Co<g ref="char:EOLhyphen"/>venant, with its Spiritual Worſhip and Services; and ſo being intricated and bewildered in the Letter, cannot poſſibly attain unto the Knowledge of the Spiritual My<g ref="char:EOLhyphen"/>ſtery. Now this moſt excellent Truth having by the Spirit of the Lord been opened and revealed to the <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> they muſt of neceſſity be of this Faith (viz.) <hi>That without a Meaſure of the holy Spirit of God received and turned unto, whereby the Vail is removed from the Heart, no Man li<g ref="char:EOLhyphen"/>ving can poſſibly diſcern or underſtand the great Myſtery of Man's Salvation by Jeſus Chriſt</hi> (which was exhibited in Shad<g ref="char:EOLhyphen"/>dow under the old, but in lively Subſtance under the new Covenant) <hi>although he had a Thouſand Bibles in his Houſe, and every word of them at his Fingers ends,</hi>
+               </p>
+               <p>So that upon this Conſideration, the People of God (ſcornfully) called <hi>Quakers</hi> do unanimouſly conclude and declare, and teſtifie unto the whole World, <hi>That the Holy Spirit of God is the only ſupream Judge, Opener and Revealer of the Mind and Myſtery of God, and Duty of Man treated of in the Scriptures.</hi>
+               </p>
+               <pb n="19" facs="tcp:60228:10"/>
+               <p>This, (oh ye <hi>Anabaptiſts</hi> and <hi>Independents,</hi> and all o<g ref="char:EOLhyphen"/>ther Oppoſers of this eternal Truth in the whole World) this is the true State of the great Controverſie betwixt the <hi>Quakers</hi> and you; and if you will joyn iſſue with the <hi>Quakers</hi> in this Controverſie, you muſt do it as it is here ſtated (at leaſt in Subſtance; for I am willing to give place to better words and order from whomſoever) and you muſt lay aſide all your prodigious Signs, and lying Wonders, and pretended Cures; for theſe will not de<g ref="char:EOLhyphen"/>cide this great Controverſie, as ye vainly imagine. And you muſt bring forth your ſtrong Reaſons and ſound Ar<g ref="char:EOLhyphen"/>guments, grounded upon plain Demonſtrations of Truth, and clear Evidence of Scripture; and if the Truth be on your part, you will be able to make it appear before wiſe underſtanding Men (whoever your Oppoſers are) and you will overcome us if you have the Truth; <hi>for great is the Truth, and will prevail;</hi> and we muſt and will ſubmit unto the Truth, and to you. But if the Truth appear on our part, we (in the Wiſdom of God) ſhall make it manifeſt, &amp; the Truth will ſtand over your Heads, and we will threſh you and winnow, as the Chaff on the Threſhing-Floor; and the Wind of the Lord will blow you away, with your Refuge of Lyes, and your Nakedneſs will be diſcovered in the ſight of all Men.</p>
+               <p>Again, This Author (<hi>Subter.</hi> pag. 5.) falſly ſuggeſts to his too credulous Readers, as if the Controverſie depen<g ref="char:EOLhyphen"/>ding between the <hi>Baptiſts</hi> Churches, and the People called <hi>Quakers,</hi> was touching the holy <hi>Scriptures</hi> (or to expreſs it more fully (ſaith he) <hi>The Authority of the Holy Ghoſt, as he ſpeaks in the Scriptures, to try and judge the Spirits of Men, which they term the Spirit of God:</hi> Thus he.</p>
+               <p>But whether there be not a Lying Spirit (however a
+<pb n="20" facs="tcp:60228:11"/>Lying Tongue) in the Mouth of this Falſe Prophet, let the Sober-minded judge. And I here challenge him up<g ref="char:EOLhyphen"/>on his Credit and Reputation with his own People, ei<g ref="char:EOLhyphen"/>ther to produce in open view one clear Proof, at leaſt of any Declaration, either by word or writing, where any of the <hi>Quakers</hi> have termed the ſpirits of Men the Spirit of God; or elſe let his ſtand opon record among his own People, as a Lyar and a Slanderer to all Generations.</p>
+               <p>Again, The Deceit of this Author further appears in his recital of the <hi>Narrative;</hi> for the firſt Copy renders <hi>R. James</hi> and <hi>R. A.</hi> contending, <hi>Whether the Spirit ſhould try the Scripture, or the Scripture the Spirit?</hi> [mark, here is <hi>Spirit, Spirit</hi> in the <hi>ſingular number,</hi> as the Spirit of God is but one] but in his recital <hi>Subter.</hi> p. 7. he renders them contending, <hi>Whether the Scriptures were to try the Spirits, or the Spirits to try the Scriptures?</hi> Its poſſible ſome Readers may judge me too Nice and Critical in this Obſerve; but I muſt beg their Excuſe (if it be worth begging) for I ſee his Deſign in it is, to ſteal a Conceit unperceived into the Reader's Mind, that the <hi>Quakers</hi> hold, <hi>That the Multifarious Spirits of Men were to try the Scriptures, and not the Scriptures to try that Many-headed Monſter.</hi> Let all ſober People take notice of his ſpirit in this.</p>
+               <p>But its worth our Conſideration, what ſhould be the bottom of this Man's Meaning, where he ſo often makes uſe of this unuſual manner of ſpeaking (viz.) <hi>The Autho<g ref="char:EOLhyphen"/>rity of the ſpirit, as he ſpeaks in the Scripture, to try and judge &amp;c.</hi> Does he mean <hi>that the Authority and Mind of the holy Spirit, reſpecting the Truths recorded in the Scriptures, is the ſame at this day as it was in old time when it indicted the Scrip<g ref="char:EOLhyphen"/>tures in the Hearts of the holy Men of God?</hi> If ſo, I muſt con<g ref="char:EOLhyphen"/>feſs, I cannot aſſign him an Oppoſite for (ſaving the
+<pb n="21" facs="tcp:60228:11"/>change of Diſpenſations and Rudiments) the bleſſed Truths revealed or declared of in the Scriptures, are the ſame now as ever, and with the holy Spirit there is no Variableneſs, neither any ſhaddow of Turning. Or, if he intend thus (for I would not miſtake him, Judging all labour loſt that is ſpent upon miſtakes) <hi>That ſeeing it is true, that the holy Spirit gave forth the Scriptures at the firſt, there is unto this day, ſuch an inſeparable and intrinſecal Con<g ref="char:EOLhyphen"/>junction, between the Authority and Mind of the Holy Spirit, and the Scriptures, that he that hath the Scriptures, hath the Authority and Mind of the Holy Spirit alſo.</hi> This I confeſs of the two ſeems to be neareſt his meaning, by how much it is furtheſt from the Truth; yet, foraſmuch as I have it not as his ſence, under his own hand, (and alſo have cauſe to fear, that if it be his ſence, yet when he perceives a <hi>Quaker</hi> owns it, he will recede from it) he ſhall find me a fair Oppoſite.</p>
+               <p>That there is an inſeparable Conjunction, or Union between the Authority and Mind of the holy Spirit, and the eſſential or ſubſtantial Truth declared in the Scrip<g ref="char:EOLhyphen"/>tures, I grant, and confeſs unto it (but do not ſtart back now, becauſe a <hi>Quaker</hi> confeſſes the Truth, as the man<g ref="char:EOLhyphen"/>ner of moſt of you is) but that therefore <hi>he that has the Scrip<g ref="char:EOLhyphen"/>tures hath alſo the Authority and Mind of the holy Spirit,</hi> I deny. If I have hit right of his meaning (as till I know the con<g ref="char:EOLhyphen"/>trary under his Hand I believe I have) he ought to prove that part of his Poſition which is denyed; but ſeeing Truth is precious, as well as Time, and the green-Graſs to day, may be withered to morrow; I ſhall in<g ref="char:EOLhyphen"/>vert my Capacity, take the ſword by the Point, and endeavour to prove,</p>
+               <p>
+                  <hi>That a Man may have the Scriptures in his Mother-Tongue
+<pb n="22" facs="tcp:60228:12"/>and yet be utterly without or ignorant of the Authority and Mind of the holy Spirit.</hi>
+               </p>
+               <p>For Proof of this Poſition I ſhall not ſtir one Foot from my Oppoſite, who (in p. 7. of his <hi>Subterfuge</hi> now under ſearch) tells us, <hi>That after</hi> R. Anderſon <hi>had made his Confeſſion of the</hi> Anabaptiſts <hi>Faith in that Cardinal Point of</hi> Water-Baptiſm, <hi>he met with the</hi> Quakers, <hi>who told him</hi> (as he ſaid) <hi>that theſe things,</hi> i. e. Water-Baptiſm <hi>was low.</hi> Now here my Oppoſite interpoſes his own Faith and Judgment in the Caſe, and is not afraid to tell the <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> and the whole Nation, <hi>That the</hi> Water-Baptiſm <hi>is the Way of Life above to the Wiſe,</hi> ſo to procure their more reverend eſteem of it; and becauſe he perceived ſuch a bold Averment ſtood need of Scripture-Authority to back it, he cites <hi>Prov.</hi> 15.24. the words run thus—<hi>The Way of Life is above to the Wiſe, to avoid from Hell beneath.</hi> Now let the Spiritual Man judge in this caſe; Is <hi>Water-Baptiſm</hi> (to take it at the beſt) the Way of Life? Did the holy Spirit in the Wiſe Man mean ſo? Can <hi>Water-Baptiſm</hi> deliver or ſave from Hell? Is that the Authori<g ref="char:EOLhyphen"/>ty or Mind of the holy Spirit in that Scripture? Let the Spiritual Man judge.</p>
+               <p>
+                  <hi>I am the Way,</hi> ſaith Chriſt; <hi>Water-Baptiſm is the Way,</hi> ſaith this Author. <hi>I was manifeſt to deſtroy the Works of the Devil, and to ſave from Death and Hell,</hi> ſaith Chriſt; Water Baptiſm <hi>is the Way on high to avoid from Hell be<g ref="char:EOLhyphen"/>neath,</hi> ſaith my Oppoſite, Now whoſe Teſtimony will ye receive? Let the ſober <hi>Chriſtian</hi> judge, whither theſe <hi>Anabaptiſts</hi> are going The parallel Scriptures with this are, <hi>Phil.</hi> 3.20. and <hi>Col.</hi> 3.1. both which direct us to ſet our Aſſections on things above, where Chriſt is at the Right-Hand of God our Saviour.</p>
+               <pb n="23" facs="tcp:60228:12"/>
+               <p>Hence (of neceſſity) will follow theſe Concluſions:</p>
+               <p>
+                  <hi>Firſt,</hi> Though this Author hath the Scriptures, yet he is ignorant of the Authority and Mind of the Holy Spirit.</p>
+               <p>
+                  <hi>Secondly,</hi> Through Ignorance of the Authority and Mind of the Holy Spirit, he hath erred from the Truth, and fairly convict himſelf,
+<list>
+                     <item>1. Of a moſt groſs Idolatry, as hath been fully manifeſt.</item>
+                     <item>2. Of a Ridiculous Soleciſm, in terming Submerſion or Plunging under Water, a Way on high. From his Idolatry nothing but a Re-baptization in the Tears of Re<g ref="char:EOLhyphen"/>pentance towards God, and Faith towards our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt can redeem him. But for his Soleciſm (that Offence being rather againſt Grammar, then Scripture) if the intelligent Reader will pleaſe but to indulge him with a favourable Aſpect, the <hi>Quakers</hi> will paſs it by.</item>
+                  </list>
+               </p>
+               <p>The <hi>Third</hi> and <hi>Laſt</hi> Concluſion is clearly this, as be<g ref="char:EOLhyphen"/>fore aſſerted; That without a Meaſure of the holy Spi<g ref="char:EOLhyphen"/>rit of God, received and turned unto, whereby the Vail is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent from the Heart, no Man living can underſtand or diſcern the Authority and Mind of the holy Spirit, as he ſpake in old time by his Prophets of the great My<g ref="char:EOLhyphen"/>ſtery now revealed, to wit, <hi>Chriſt in you the Hope of Glory.</hi>
+               </p>
+               <p>And this gives a full and undeniable Probation unto that grand Poſition, the Ground and Original of the <hi>Anabaptiſts</hi> great Controverſie with the <hi>Quakers;</hi>
+               </p>
+               <p>
+                  <hi>That the holy Spirit of God is the only Supream Judge, Diſ<g ref="char:EOLhyphen"/>cerner and Revealer of the Mind and Myſtery of God, and of the Duty of Man required in the Scriptures.</hi>
+               </p>
+               <p>Now if any Man object againſt this, and ſay, <hi>I have been too raſh and haſty to conclude thus, only upon one Mans Error
+<pb n="24" facs="tcp:60228:13"/>and Miſtake, and that many others may notwithſtanding be more clear.</hi> I anſwer, Be it far from me to conclude all under this Man's Error and Idolatry; nay, I know there are many of the People of the Lord, who by the Illumina<g ref="char:EOLhyphen"/>tion of his good Spirit are inabled to diſcern in meaſure, what his Mind and Will is; but if you do but impartial<g ref="char:EOLhyphen"/>ly conſider the Ground and Cauſe of this Man's Error and Idolatry; you may perceive the Argument will hold from Particulars to Generals, as thus; If one Man be blind for want of his Eyes, then ten thouſand Men, wanting their Eyes, muſt be blind alſo. If this Author hath committed a groſs Idolatry, for want of the Light of the holy Spirit, then may a whole Nation, wanting the Guidance of the holy Spirit, be Idolaters alſo. Here you ſee the Ground and Cauſe of Blindneſs and Idolatry is, their Eyes not being opened by the holy Spirit to underſtand the Scriptures: ſo the Argument holds true throughout all, and the aforeſaid Poſition is clearly proved, as before was promiſed.</p>
+               <p>And now, oh ye <hi>Anabaptiſts</hi> and <hi>Independents,</hi> who affirm, <hi>That the Scriptures are to try and judge of the holy Spi<g ref="char:EOLhyphen"/>rit;</hi> come let me expoſtulate with you a little; What Aſſurance can you give the <hi>Quakers,</hi> or what Grounds or Encouragements to believe, in caſe the Judicial Pow<g ref="char:EOLhyphen"/>er were in your Hands, that in your Tryal of the holy Spirit by the Scriptures, as he appears in the <hi>Quakers,</hi> or in whomſoever, your proceedings will be more equal, juſt and clear, and your ſelves more free from Miſtakes of him then the profeſſing <hi>Jews</hi> were, when by the ſame Rule they would try the ſame holy Spirit, as it appeared (in an immeaſurable Meaſure) in Jeſus of <hi>Nazareth?</hi> Shew us (I pray you) wherein you are better, wiſer,
+<pb n="25" facs="tcp:60228:13"/>juſter, clearer in your Principles and Judgments, then they? Do you account your ſelves the Church of God? So did they. Do you ſay you have his Commandments and Ordinances? So ſaid they. Have you <hi>Anabaptiſts</hi> ſuch a high Eſteem of your <hi>Baptiſm,</hi> as to account it the Way of Life, to avoid from Hell beneath? The like E<g ref="char:EOLhyphen"/>ſteem had they of their Fleſhly Circumciſion, as to teach, <hi>that without it Men could not be ſaved.</hi> Have you the Scrip<g ref="char:EOLhyphen"/>tures, and do you reckon them a Competent Judge of the Spirit of God? So had they, and in them thought they had Eternal Life; and yet for all this, they knew not the <hi>Meſſiah,</hi> of whom the Scriptures teſtified; but having moſt wickedly Betrayed, Apprehended and Ar<g ref="char:EOLhyphen"/>raigned him before the <hi>Roman</hi> Tribunal, methinks I hear the Deputy and them thus implead each other in the Caſe of the true <hi>Meſſiah.</hi>
+               </p>
+               <sp>
+                  <speaker>Pilate,</speaker>
+                  <p>
+                     <hi>What Accuſation bring ye againſt this Man?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Jews,</speaker>
+                  <p>If he were not a Malefactor, we would not have delivered him unto thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Pilate,</speaker>
+                  <p>
+                     <hi>Deceit lurks in generals; what Evil hath he done?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Jews,</speaker>
+                  <p>He perverts the Nation; forbids to pay Tri<g ref="char:EOLhyphen"/>bute to <hi>Ceſar;</hi> ſaying, himſelf is Chriſt a King—In De<g ref="char:EOLhyphen"/>ſign (doutbleſs) to uſurp the Empire, and aſſume <hi>Ceſar</hi>'s Revenue.</p>
+               </sp>
+               <sp>
+                  <speaker>Pilate,</speaker>
+                  <p>
+                     <hi>Away, away for Shame —What, nothing but Lyes and Slanders? I now perceive your Envy. I find no Fault in him at all—<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>le releaſe him.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Jews,</speaker>
+                  <p>Crucifie him, crucifie him.</p>
+               </sp>
+               <sp>
+                  <speaker>Pilate,</speaker>
+                  <p>
+                     <hi>Why, what Evil hath he done?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Jews,</speaker>
+                  <p>He is a Blaſphemer—A horrible Blaſphemer, and he ought to dye for it.</p>
+               </sp>
+               <sp>
+                  <pb n="26" facs="tcp:60228:14"/>
+                  <speaker>Pilate,</speaker>
+                  <p>
+                     <hi>Take ye him then, and Crucifie him; for I find no Fault in him.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Jews,</speaker>
+                  <p>By our Law he ſhould be Stoned to Death, but ye <hi>Romans</hi> have taken away that Power; it is not lawful for us to put any man to Death.</p>
+               </sp>
+               <sp>
+                  <speaker>Pilate,</speaker>
+                  <p>
+                     <hi>Say then what is his Blaſphemy?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Jews,</speaker>
+                  <p>He is but a Carpenter's Son, we know his Pe<g ref="char:EOLhyphen"/>degree; and yet he made himſelf the Son of God, and the Saviour of the World, and that's horrid Blaſphemy.</p>
+               </sp>
+               <sp>
+                  <speaker>Pilate,</speaker>
+                  <p>
+                     <hi>Son of God! my Heart Trembles at that word, ye obdurate Wretches; how appears it that he ought to dye for this?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Jews,</speaker>
+                  <p>We have a Law, and by our Law he ought to dye, becauſe he made himſelf the Son of God.</p>
+               </sp>
+               <sp>
+                  <speaker>Pilate,</speaker>
+                  <p>
+                     <hi>Produce your Law, that I may ſee it.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Jews,</speaker>
+                  <p>It is in the four and twentieth Chapter of <hi>Le<g ref="char:EOLhyphen"/>viticus,</hi> and the ſixteenth Verſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Pilate,</speaker>
+                  <p>
+                     <hi>Read it verbatim.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Jews,</speaker>
+                  <p>And he that Blaſphemeth the Name of the Lord, ſhall ſurely be put to Death; all the Congregation ſhall Stone him to Death, as well the Stranger, as he that is born in the Land; when he Blaſphemeth the Name of the Lord, let him be Slain.</p>
+               </sp>
+               <p>And now ye <hi>Anabaptiſts</hi> and <hi>Independents,</hi> and thou Au<g ref="char:EOLhyphen"/>thor of the <hi>Subterfuge,</hi> be ingenuous, and tell the <hi>Quakers</hi> and the whole Nation truly, Whether ye do believe, that the Authority of the holy Spirit, as he ſpeaks in this pre<g ref="char:EOLhyphen"/>cited Scripture, did really intend the Murder of the <hi>Meſſi<g ref="char:EOLhyphen"/>ah</hi> as a Blaſphemer, yea, or nay? if nay (as moſt cer<g ref="char:EOLhyphen"/>tainly nay) then tell us, How it came to paſs the <hi>Jews</hi> ſhould ſo groſly miſtake and miſapply it? and ſhew unto us, and to all the World, if you can, what they wanted
+<pb n="27" facs="tcp:60228:14"/>which might ſhew them the true Mind of the Lord in that place, and in all other Propheſies which ſpake of the Meſſiah; ſeeing you cannot deny, but they had the Scrip<g ref="char:EOLhyphen"/>ture (and according to your deceitful way of wording it the Authority of the holy Spirit, as he ſpeaks in the Scrip<g ref="char:EOLhyphen"/>tures) not onely read, but expounded unto them every Sabbath Day.</p>
+               <p>If the <hi>Jews</hi> miſtake aroſe from their Ignorance of the Authority and Mind of the holy Spirit as he ſpoke forth the Scriptures, as ſure enough it did, which it could not have done had they receiv d the Spirit then, behold, the <hi>Jews</hi> alſo are found miſunderſtanding the Scriptures for want of the holy Spirit, as well as my Oppoſite was, and here's one clear proof more (come unlooked for) of my former poſition (viz.) <hi>That a Man, nay a whole Nation of Men may have the Scriptures in his or their Mother Tongue, and yet be utterly ignorant of the Authority and Mind of the holy Spirit.</hi> And therefore the matter ſtanding thus, ye are hereby required and obliged to produce ſome ſatisfactory and convincing Reaſon, why the <hi>Quakers</hi> ſhould expect more equal proceeding at your hands in the Judgment aforeſaid, in caſe you had the civil Power, then our Lord Jeſus Chriſt found at the Hands of the <hi>Jews,</hi> ſeeing you have no more then they had (to wit, the Letter of the Scrip<g ref="char:EOLhyphen"/>tures) to judge withal; and that you have no more then they, appears in this, that you deny the holy Spirit as he appears in his Servants to be the Revealer of the Scriptures and ſupream judge of the Spirits and Doctrines of Men: and if ye can produce no ſuch convincing Reaſon as may give the <hi>Quakers</hi> reaſonable acquieſcence in this Concern, foraſmuch as they are verily perſwaded that although you have the Scriptures, you want the
+<pb n="28" facs="tcp:60228:15"/>Guidance of the holy Spirit truly to diſcern them, it lies upon you as a Work of abſolute neceſſity (ye <hi>Anabap<g ref="char:EOLhyphen"/>tiſts,</hi> and thou Author of this <hi>Subterfuge</hi>) to exhibit unto the <hi>Quakers</hi> in the Sight of the whole Nation, ſome pregnant Proof, and infallible Demonſtration, that you are not deceitful Sophiſters and cunning Jugglers in your doubtful and ambiguous Expreſſions, and Amphibologies diſperſed in ſundry places of your Books, and particular<g ref="char:EOLhyphen"/>ly in that called the <hi>Subterfuge,</hi> as before is noted, about the Scriptures, the Spirits of Men, and the holy Spirit, as he ſpeaks in the Scriptures, &amp;c. which is corrupt and uncertain Language, as you uſe it; and it is apparent you do it not only of Ignorance, but Wilfulneſs; and your Deceits therein are made manifeſt unto all. You are alſo oblieged and required to prove (if you can) poſitively and plainly, to the Satisfaction of all Men that may doubt thereof, that all Men whoſoever, that have the Scriptures, have alſo the Authority of the Holy Spirit, as he ſpeaketh in them: And ſhew us alſo how it cometh to paſs, that Men miſtake them notwithſtanding: And you muſt alſo prove, That the Scriptures are indeed a Competent Judge of the Holy Spirit, as he appeareth in his Servants: And you muſt invalidate all, whatſoever is here written, and proved to the contrary. And if you ſhall fail to do all this by clear Proofs, and evident Demonſtrations of Truth (for Trifling and Imperti<g ref="char:EOLhyphen"/>nency will not ſerve your turn, nor Lyes ſhall no lon<g ref="char:EOLhyphen"/>ger be your Refuge) then will your Vizards be taken off your Faces, and your Refuge of Lyes will be ſwept
+<pb n="29" facs="tcp:60228:15"/>away; and in the ſight of the <hi>Quakers</hi> (whom you Deſpiſe) and of the whole Nation, you will appear (to your great Shame and Contempt) to be what in<g ref="char:EOLhyphen"/>deed you are.</p>
+               <epigraph>
+                  <q>For they that dwell at <hi>Jeruſalem,</hi> and their Rulers, be<g ref="char:EOLhyphen"/>cauſe they knew him not, nor yet the Voices of the Prophets, which are read every Sabbath Day, they have fulfilled them in condemning of him, <bibl>
+                        <hi>Acts 13.27.</hi>
+                     </bibl>
+                  </q>
+               </epigraph>
+            </div>
+            <div type="part">
+               <head>A few <hi>Queries</hi> to <hi>Ralph James,</hi> and the Author of the <hi>Subterfuge Overturned, &amp;c.</hi> by them to be Anſwered in Truth and Plainneſs.</head>
+               <p n="1">I. WHether is our Lord Jeſus Chriſt (whom the Scriptures teſtifie to be the Light and Sal<g ref="char:EOLhyphen"/>vation of God to the Ends of the Earth) the only true Way of Life on high to avoid from Hell beneath, yea, or nay? If yea, then whether to affirm <hi>Water-Baptiſm</hi> to be the Way of Life on high, to avoid from Hell be<g ref="char:EOLhyphen"/>neath, be not abominable Idolatry at leaſt, if not Blaſ<g ref="char:EOLhyphen"/>phemy?</p>
+               <p n="2">II. Suppoſing <hi>Water-Baptiſm</hi> were the Appointment of God (as other things of like ſignification in former Diſpenſations have been) yet if the Miniſters thereof ſhould Idolatrouſly intrude it into the Place and Office of
+<pb n="30" facs="tcp:60228:16"/>Chriſt our Saviour; that is, affirm it to be the Way of Life, to avoid from Hell beneath; whether ſuch Idola<g ref="char:EOLhyphen"/>trous intruſion be not as ſignal a Pollution of the ſaid Ordinance of <hi>Water-baptiſm,</hi> as the like Abuſe of the Ordi<g ref="char:EOLhyphen"/>nances of God <hi>Iſa.</hi> 1. did pollute, and render them abo<g ref="char:EOLhyphen"/>minable unto the Lord? If yea, then whether it be not high time for all and every Man concerned therein to a<g ref="char:EOLhyphen"/>riſe, and depart thence, as not being their Reſt, it being ſo filthily polluted?</p>
+               <p n="3">III. Seeing the Latin Verb, <hi>baptizo,</hi> is ſynonimous with the Greek <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which ſignifies to <hi>dip</hi> or <hi>plunge;</hi> whether <hi>T. R.</hi> his calling your Water Baptiſm <hi>dipping in Water,</hi> or your calling it <hi>the Way of Life on high to avoid from Hell beneath,</hi> be the greater Abuſe of the Way of the Lord, and therein of God himſelf? An<g ref="char:EOLhyphen"/>ſwer plainly.</p>
+               <p n="4">IV. Seeing it appears by the Scriptures, that the A<g ref="char:EOLhyphen"/>poſtles of our Lord Jeſus Chriſt wrought their Miracles,<note place="margin">Acts. 3.6.</note> and cured Diſeaſes by the Name of Jeſus of <hi>Nazareth;</hi> then, Whether the Sons of <hi>Sceva,</hi> their pretending to do the like Miracles by the ſame Name, doth prove them to ſpeak the very Language, and Spirit of the Apoſtles, yea, or nay? If nay, (as moſt certainly nay) then with what Reaſon or Conſcience canſt thou affirm, that <hi>R. Anderſon</hi> in exhorting <hi>R. James</hi> to turn to the Light within, ſpake the very Language and Spirit of the <hi>Quakers?</hi> this Query is to the Author of the Subterfuge, &amp;c. that he may clear himſelf from Deceit, if he can.</p>
+               <p n="5">
+                  <pb n="31" facs="tcp:60228:16"/>V. Whether the Teſtimony which that <hi>Pythoneſs</hi> gave unto the Perſons and Doctrine of the Apoſtle <hi>Paul</hi> and <hi>Sylas,</hi> is not given as fully,<note place="margin">Acts 16.</note> and at as high a Rate, as any Teſtimony ye can pretend <hi>R. An<g ref="char:EOLhyphen"/>derſon</hi> gave to the Perſons or Doctrine of the <hi>Quakers?</hi> And whether in ſuch Teſtimony ſhe appeared as a Pro<g ref="char:EOLhyphen"/>ſelite of the <hi>Chriſtian</hi> Faith, and as a Propheteſs of the <hi>Chriſtians,</hi> yea, or nay? if nay, then ſhew unto the <hi>Quakers,</hi> and the whole Nation, if you can, why <hi>R. An<g ref="char:EOLhyphen"/>derſon</hi> his teſtifying for the Perſons and Way of the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> (as ye pretend he did, but prove it not) ſhould prove him a <hi>Quaker;</hi> or appearing as one of their Prophets? he being (by your own Confeſſion) at that Time poſſeſſed with a Spirit of Deluſion, as ſhe was then with a Spirit of Divination.</p>
+               <p n="6">VI. Seeing <hi>R. James</hi> avers in his <hi>Narrative, That</hi> R. Anderſon <hi>pronounced him a Leper from the Crown of the Head to the Sole of the Foot, and that the ſame Judgment</hi> (as he ſaid) <hi>was fallen upon one of his Children:</hi> Whether you are not very deceitfull, and unworthy Perſons, thus to abuſe the <hi>Quakers,</hi> and the whole Nation, with a Counterfeit and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orged Story of ſuch a horrid Leproſie, ſith in ex<g ref="char:EOLhyphen"/>change thereof you are (now at laſt) glad to accept of a <hi>Simple Sore?</hi> And if ye think to avoid the Horror of your Guilt and Shame with this Evaſion, <hi>He ſaid ſo, he ſaid ſo,</hi> (charging the poor Man your own Member with a Lye) Then Whither doth not this evidence to the whole Na<g ref="char:EOLhyphen"/>tion your implacable Envy, and Malice againſt an Inno<g ref="char:EOLhyphen"/>cent People, that durſt (with ſo great Confidence) at<g ref="char:EOLhyphen"/>tempt
+<pb n="32" facs="tcp:60228:17"/>to aſperſe and ſlander them, only upon the falſe and ſingle ſay ſo, of ſuch a Perſon as even your ſelves then judged to be a <hi>falſe Prophet,</hi> and poſſeſſed with a <hi>Spirit of Deluſion?</hi> And if your inveterate Envy and Malice herein be manifeſt to the Nation, as doubtleſs it is, then let the Nation and the whole World judge, whether <hi>R. James</hi> be not infected with a more dangerous <hi>Leproſie</hi> then ever <hi>Mirjam</hi> was, and like to continue ſo (without Repentance) until his Dying Day.</p>
+               <p n="7">VII. It being evident to the Nation that <hi>R. Anderſon</hi> was no <hi>Quaker,</hi> his Child not leprous, his Wife and Family not ſo diſeaſed, as you pretended, nor your Church ſuch Workers of Miracles, as you boaſted; but your whole pretence a meer malicious Juggle and Impoſture, which yet you pretend to be an Eminent Hand of God! Such a Witneſs of God, little leſs then a Miracle, ten<g ref="char:EOLhyphen"/>ding to the Honour of God, Exaltation of his Wayes, and Appointments, Eſtabliſhments of his People, De<g ref="char:EOLhyphen"/>ciſion of the great Controverſie, Strength to the weak Hands, and feeble Knees of his poor People, &amp;c. and then to conclude thus, <hi>And the Lord was mercifully pleaſed to hear our poor Prayers for them, and to reſtore them, &amp;c.</hi> with ſuch like ſeeming devout Words wherewith your Letters and <hi>Narrative</hi> are repleat: All this conſidered, its queried, whether the <hi>Quakers,</hi> and the whole Nati<g ref="char:EOLhyphen"/>on, may not (without the leaſt Breach of Charity) ſafe<g ref="char:EOLhyphen"/>ly conclude, that ye <hi>Anabaptiſts</hi> and <hi>Independents,</hi> who have been either Actors, Contrivers, Aſſerters of, or Witneſſes to this Miſchievous piece of Pageantry, are the moſt notorious Diſſemblers with God and the World,
+<pb n="33" facs="tcp:60228:17"/>and the very'ſt Hypocrites that ever our Lord Jeſus Chriſt pronounced Wo againſt? Quit your ſelves if you can.</p>
+               <p n="8">VIII. Whether they that make no Conſcience to be Jugglers, Lyars, Hypocrites, proud Boaſters, and the like; or they that diſcover, detect and affirm them to be ſuch, are the great Offenders?</p>
+               <p n="9">IX. Whether they that call and are call'd <hi>Rabbi, Rabbi,</hi> do not break that expreſs Command of Chriſt, <hi>Mat.</hi> 23.8, 10. yea, or nay? If nay, then ſhew, when that Pre<g ref="char:EOLhyphen"/>cept was abrogated? and if yea, then whether are not they that call, and are called, Mr. <hi>Ralph James,</hi> Mr. <hi>Ben. Morley,</hi> Mr. <hi>John Green,</hi> &amp;c. Breakers of that plain Com<g ref="char:EOLhyphen"/>mand, and being guilty of that, are guilty of all, not<g ref="char:EOLhyphen"/>withſtanding their <hi>Water-Baptiſm?</hi>
+               </p>
+               <p>
+                  <hi>Let theſe</hi> Queries <hi>be anſwered plainly, and in ſound words; and think not to ſolve one Query by propoun<g ref="char:EOLhyphen"/>ding another.</hi>
+               </p>
+               <closer>
+                  <signed>R. R.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="34" facs="tcp:60228:18"/>
+               <head>Another Poſtſcript TO RALPH JAMES; And thoſe which have taken part with him, by JOHN WHITEHEAD.</head>
+               <p>AS in a <hi>Poſtſcript</hi> annexed to the Anſwer to your <hi>Narrative, of the Eminent Hand of God that beſel a</hi> Quaker <hi>and his Family, called</hi> Richard Ander<g ref="char:EOLhyphen"/>ſon, <hi>at the Town of</hi> Panton <hi>in</hi> Lincolnſhire, I queried, and that upon juſt Grounds, <hi>Why thou and thy Brethren had conſpired together, to utter a Slander and Reproach againſt the People of God called</hi> Quakers, <hi>in affirming</hi> Richard An<g ref="char:EOLhyphen"/>derſon <hi>to be one of them?</hi> And again, in a Book intituled, <hi>The</hi> Quakers <hi>Subterfuge or Evaſion Overturned;</hi> ye have given me juſt Ground to ſay, <hi>How long will you make Lyes, your Refuge, and under Falſhood ſeek to cover your Selves?</hi> For inſtead of Anſwering what was Righteouſly and Reaſo<g ref="char:EOLhyphen"/>nably propounded to you, which ye ſhould have done, if ye would have approved your ſelves Innocent Men, ye have utterred more deceitful and pernicious Slanders againſt me, as is maniſeſt in your Anti-queries to me, whilſt ye have utterly declined proving your former,
+<pb n="35" facs="tcp:60228:18"/>not being able to mention one of the People of God called <hi>Quakers,</hi> that ever owned <hi>Richard Anderſon,</hi> nor any of their Meetings, to which he did belong; nor who of them he did ever joyn with in the Worſhip of God; nor any thing in Proof, <hi>That his Child was ſmitten with Leproſie,</hi> nor <hi>himſelf and Family with a grievous Malady,</hi> ſaving his own word, <hi>whom</hi> you conclude <hi>was a falſe Pro<g ref="char:EOLhyphen"/>phet, and deluded Creature, both ſubject to ſpeak and believe Lyes.</hi> And therefore your <hi>Narrative</hi> and ye are juſtly fal<g ref="char:EOLhyphen"/>len under Cenſure, having no better Foundation where<g ref="char:EOLhyphen"/>on to ſtand, then the Teſtimony of a Simple Deluded Man, whom ye have manifeſt to be a Lying Prophet; which Teſtimony ye have by croſs Examination, if not Subornation obtained; and therefore not any can give credit to it, but ſuch as are willing to believe a thing, becauſe a Lying Ignorant Man ſaith it, who hath unſaid it again before many Witneſſes, as before is manifeſt: And therefore I ſhall not further inſiſt upon it, but pro<g ref="char:EOLhyphen"/>ceed to anſwer your Anti-Queries. In the firſt of which ye affirm, that I hold, <q>That the Goſpel was never Preached in <hi>England,</hi>
+                  </q> till <hi>George Fox</hi> preached it; and then queries, <hi>Whether I did not aſſert it?</hi> thereby manife<g ref="char:EOLhyphen"/>ſting your Raſhneſs and Injuſtice, who firſt Condemn, and then make Enquiry; not being able to prove, what ye have charged me with: For ſure I am, That I ne<g ref="char:EOLhyphen"/>ver thought, that <hi>George Fox</hi> was the firſt that ever prea<g ref="char:EOLhyphen"/>ched the Goſpel in <hi>England;</hi> and therefore have been far from affirming it; for there have been Openings and Breakings forth of the Goſpel, Light and Power in di<g ref="char:EOLhyphen"/>vers Ages, in <hi>England,</hi> in a Deſpiſed Suffering Remnant, though not in that Fulneſs a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in our Age. I am alſo ſen<g ref="char:EOLhyphen"/>ſible ever ſince I knew God, or was acquainted with him, how the Glorious Goſpel was preached <hi>to,</hi> or <hi>in</hi> every
+<pb n="36" facs="tcp:60228:19"/>Creature which is under Heaven, <hi>Col.</hi> 1.23. and its own Light ſhined in Men's Hearts (as the Apoſtles teſti<g ref="char:EOLhyphen"/>fied) in their dayes, about which time there were al<g ref="char:EOLhyphen"/>ſo Witneſſes of that Glorious Goſpel came to preach it in this Iſland (according to Hiſtory) who <hi>turned Peo<g ref="char:EOLhyphen"/>ple from Darkneſs to Light,</hi> as we do, and <hi>from Satan's power to the Power of God;</hi> in which Power a Remnant have been preſerved through Ages and Generations, though many who have got the Form have denyed the Power, and reproached and perfecuted thoſe, which have been in the Power, Light and Life, which the A<g ref="char:EOLhyphen"/>poſtles and primitive <hi>Chriſtians</hi> were in. From which Power, Light and Life there hath been an Apoſtacy, ſo that Darkneſs has covered the Earth, &amp; groſs Darkneſs has bin upon the generallity of People, who have been e<g ref="char:EOLhyphen"/>ſtranged from the Life of the Prophets, and Apoſtles, and primitive <hi>Chriſtians</hi> &amp; Martyrs of Jeſus: ſince which Apo<g ref="char:EOLhyphen"/>ſtacy, or Falling away from the Life, which the Wit<g ref="char:EOLhyphen"/>neſſes and Martyrs of Jeſus were in, <hi>George Fox</hi> was the firſt ſtable Miniſter of the true Light in this Age, that God raiſed up in his Power to turn People from Dark<g ref="char:EOLhyphen"/>neſs to the True Light, and from Satan's power to God; unto which he firſt, and many more ſince in theſe latter dayes have given witneſs, <hi>That he lighteth every Man that cometh into the World, that all through him might believe, and receive the Remiſſion of Sins.</hi> And in this Goſpel I have Laboured, and not in vain, and of it am not a<g ref="char:EOLhyphen"/>ſhamed; for <hi>it is the Power of God to Salvation in all them that believe:</hi> Though unto thoſe that are Diſobedient, it is a Stone of Stumbling, and Rock of Offence. And 'tis no marvel that thoſe, which ſtumble at the Word, which is nigh in their Hearts, and are unſenſible of its Power and Virtue, ſtumble at the Teſtimony, which
+<pb n="37" facs="tcp:60228:19"/>is given of it by thoſe, which have felt and handled it, and do know 'tis the ſame Glorious Goſpel, which in the Apoſtles dayes ſhined in their Hearts, and gave them the Knowledge of the Glory of God in the Face of Je<g ref="char:EOLhyphen"/>ſus Chriſt: and this Treaſure they had, and we have in Earthen Veſſels, that the Excellency of the Power may be of God, to whom be the Praiſe forever, 2 <hi>Cor.</hi> 4.6, 7.</p>
+               <p>
+                  <hi>Secondly,</hi> thou enquireſt, <hi>whether he that holds, that no<g ref="char:EOLhyphen"/>thing which was mortal was called Chriſt, doth not thereby deny the Death of Chriſt:</hi> thereby intimating that I <hi>aſſerted,</hi> That nothing which was Mortal was called Chriſt. But what Occaſion, thou <hi>Thomas Grantham</hi> (who was then my Oppoſite) and I am perſwaded, Oppoſite to Truth it ſelf) gaveſt me to ſpeak Words to that Purpoſe, with other Words, that did declare my Sence of them, thou ſayeſt nothing, nor haſt thou been ſo ingenuous as to de<g ref="char:EOLhyphen"/>clare, what I writ many Years ago to <hi>William Smith</hi> of <hi>Elſhem</hi> to be communicated to thee and thy Brethren, wherein the Truth of what I ſaid in that Caſe, &amp; alſo the other, whereupon thou groundeſt thy third Query con<g ref="char:EOLhyphen"/>cerning <hi>Chriſts having no Body of Fleſh</hi> (as thou imagineſt) <hi>beſides his Church</hi> is made apparent; and therefore I ſhall here inſert the ſubſtance of it, ſeeing it ſtands upon thy Head unanſwered; ſo that the intelligent Reader may underſtand, that he who ſayeth, that I told him, <hi>nothing which was mortal was called Chriſt,</hi> hath both wronged me and the Truth it ſelf, by relating ſome of my Words out of that Order and Sence wherein they were ſpoken, as alſo in that he hath left out and not declared the reſt of my Words, which were ſpoken at the ſame Time, whereby the true Sence of thoſe Words which he relates might
+<pb n="38" facs="tcp:60228:20"/>and may be underſtood, and therein he hath ſhewed, <hi>Firſt,</hi> That his Mind is ſo prejudic'd and by aſſed againſt us, that he would for advantage, rather wilfully miſtake our Prin<g ref="char:EOLhyphen"/>ciples, then have a right Underſtanding of them: And he hath further ſhewed his Diſhoneſty and Malice, in that he would miſinform others, and prejudice them againſt the Truth it ſelf, by wreſting my Words out of the Sence wherein they were ſpoken: Wherefore that you may rightly underſtand this caſe, I declare, that the Words which were ſpoken by me, were ſpoken in an Excluſive Sence, and that upon the Occaſion of T. G's. <hi>Magnifying the Body of Chriſt equal with or above him for whom the Body was prepared:</hi> whereupon I ſtill ſay, that the Chriſt or Son of God is not made up of that which is or was mortal, and that nothing which was mortal, was (properly or ſtrictly) called Chriſt; &amp; he neither underſtood my Words right, nor would admit me to explain them, till he had raſhly condemned them as <hi>Hereſie.</hi> Which notwithſtanding I ſtill look upon the Words to be very true Words in that Sence that they were ſpoken in; for I ſay ſtill, <hi>that the Bo<g ref="char:EOLhyphen"/>dy of Chriſt, which was mortal (excluding the Soul and Spi<g ref="char:EOLhyphen"/>rit) was not, nor could properly be called Chriſt, or Man an<g ref="char:EOLhyphen"/>nointed,</hi> becauſe that the Immortal Soul and Spirit of man are the more Noble part of Man, and therefore may Juſtly challenge the Prerogative to denominate; for without Soul and Spirit a mortal Body neither is, nor can truely be term'd <hi>Man:</hi> no more can the mortal Bo<g ref="char:EOLhyphen"/>dy of Chriſt without the Soul, Spirit and Life of Chriſt, which is Immortal, be term'd Chriſt: which if you do but underſtand and mark well, that although I ſaid, <hi>nothing which was mortal, was called Chriſt, but that Chriſt had once a mortal Body, which dyed upon the Croſs:</hi> then
+<pb n="39" facs="tcp:60228:20"/>may ye more eaſily judge, whether it be poſſible forem or any other, which <hi>Thomas Grantham</hi> hath a Mind to ſlan<g ref="char:EOLhyphen"/>der, to eſcape the Scourge of his Tongue, ſince he is ſo blindly raſh, upon no better Grounds to charge me both with <hi>grevious Hereſie</hi> and <hi>denying the Body of Chriſt;</hi> and that for no other Reaſon, but becauſe I diſtinguiſh betwixt <hi>Chriſt,</hi> and the <hi>Body of Chriſt, which was prepared for him to do his Fathers Will</hi> in, Heb. 10.</p>
+               <p>And the Eternal Word or Son of God, <hi>which was</hi> glo<g ref="char:EOLhyphen"/>rified with the Father before the World began, John 17. <hi>Who took upon him the Form of a Servant, and in that pre<g ref="char:EOLhyphen"/>pared Body did his Fathers Will,</hi> is more noble both in Glory and Dignity, then either the Soul, Spirit or Body of Man, in as much as by and for him Man was made, and by him only Redeemed and Reſtored.</p>
+               <p>Therefore may and ought he (<hi>who was and is that true Light, that lighteth every Man that cometh into the World,</hi> Joh. 1.9.) to be held forth and preached as the <hi>only Lord and Saviour of Man-kind:</hi> and the Manhood which through Mercy to us was taken into Union with this E<g ref="char:EOLhyphen"/>ternal Power and God-head, ſhould not be divided from, nor cryed up in Oppoſition to the Eternal Word or Son of God, as they who only know Chriſt after the Fleſh, are too ſubject to do. And of them is he who in his 3d Query renders me <hi>unfit to preach the Reſurrection, Aſcenſion, and ſecond Coming of Chriſt,</hi> becauſe I could not own, that he hath ſuch a Body, as he had imagined; but did teſtifie of and have ſhewed unto People <hi>that Eternal Life, which was with the Father,</hi> as the Apoſtles did 1 John 1.1, 2. by and in which Life Mortality was ſwallowed up, after Chriſt had finiſhed what the Father gave him to do on Earth. Then he who came down from Heaven to bring Man to God, aſcended into Hea<g ref="char:EOLhyphen"/>ven
+<pb n="40" facs="tcp:60228:21"/>to his Father, and our Father, at whoſe right Hand, having accompliſht his Work, he ſitteth down, <hi>and is glorified with that Glory which he had with the Father before the World began in</hi> a Body ſutable to his Spirit, conſiſting of heavenly Fleſh and Bone; of which Body neither <hi>T.G.</hi> the Author of theſe <hi>Queries,</hi> nor <hi>Natural Phi<g ref="char:EOLhyphen"/>loſophers</hi> in their Wiſdom do comprehend the Dimenſi<g ref="char:EOLhyphen"/>ons; and therefore would limit him in <hi>ſome thing;</hi> who aſcended, that he might fill <hi>all things,</hi> Eph. 4.10. and is not contained in any <hi>Created Being,</hi> ſo as to be ab<g ref="char:EOLhyphen"/>ſent from other created Beings, <hi>Ep.</hi> 2.20, 21, 22, 23. and much leſs is he abſent from his faithful Diſciples, and Followers, who whilſt on Earth were and are made to ſit together in Heavenly Places in Chriſt Jeſus, <hi>Eph.</hi> 2.5, 6. And that Chriſt hath ſuch a Coeleſtial Body, as I have here deſcribed, I never denyed neither at <hi>Spilsby, Slee<g ref="char:EOLhyphen"/>ford,</hi> nor elſe-where, as <hi>Thomas Grantham,</hi> with whom I have publickly Diſputed in thoſe Places, ſlanderouſly reports I did: but I am perſwaded that he cannot bring one of theſe ſeveral Hundreds of People, that heard us, which is not byaſſed to his Judgment, or influenced by him, that will ſay, <hi>I denyed Chriſt to have now any Bo<g ref="char:EOLhyphen"/>dy beſides his Church:</hi> though I have ſeveral times deny<g ref="char:EOLhyphen"/>ed <hi>T. G</hi>'s Aſſertion, wherein he hath affirmed, <hi>That Chriſt hath now a Body of Fleſh and Bones circumſcript, or li<g ref="char:EOLhyphen"/>mited in that Heaven which is above, and out of every Man on Earth.</hi> And perceiving that he ſtood conceited in his Fleſhly Apprehenſion and Knowledge, wherein he had conceived the Lord of Glory to be like unto Corrupti<g ref="char:EOLhyphen"/>ble Man, I asked him, <hi>Since be denyed Chriſt to be in and with Believers whilſt upon Earth, where that Body was he ſpoke on, and how big, or what a one it was?</hi> To which he an<g ref="char:EOLhyphen"/>ſwered in his haſte, <hi>That it was ſuch a one as his, conſiſting
+<pb n="41" facs="tcp:60228:21"/>of Fleſh and Bones and in yonder Heaven, which is above,</hi> pointing towards the Clouds: to which I replyed, <hi>Nay thy Fleſh is ſinful, and corruptible, and Rotteneſs ſhall enter into thy Bones; neither can thy Body come in the doors being ſhut, nor appear in another Form, as Chriſt did,</hi> where<g ref="char:EOLhyphen"/>upon he mended his Words, and did except <hi>Sin</hi> and <hi>Cor<g ref="char:EOLhyphen"/>ruption;</hi> but ſtill ſtood in that which diſcerns not the Lords Body, but would limit it to a particular Place, and out of every Man on Earth, ſhewing his Ignorance both of the Kingdom of God which is within, and of Chriſt within, who is not a Spirit without a Body as Be<g ref="char:EOLhyphen"/>lievers do experience, who were and are true Members of his Heavenly Body of his Fleſh and of his Bones, Ep. 5.30. and theſe do <hi>eat Chriſts Fleſh, and drink his Blood, and dwell in Chriſt, and Chriſt in them.</hi> John. 6. and the Spirit and Body of Chriſt is not divided; but where<g ref="char:EOLhyphen"/>ſoever the Spirit and Life of Chriſt is, it is in the Bo<g ref="char:EOLhyphen"/>dy of Chriſt; and they which <hi>believe, have Eternal Life abiding in them,</hi> whereby they are quickned, and joy<g ref="char:EOLhyphen"/>ned to the Heavenly Body of Chriſt, and alſo ſupplied with Nouriſhment <hi>in him, who is the Head of the Body,</hi> the Fulneſs of him that filleth all in all.</p>
+               <p>But notwithſtanding I have freely declared that, which was and is my faith concerning the Body of Chriſt, I per<g ref="char:EOLhyphen"/>ceive that <hi>T. G.</hi> hath very uncharitably reſolved (becauſe he cannot diſcern the Lord s Body, of which we ſpeak) to believe, <hi>That I own no Body of Chriſt, but the Church;</hi> and what ever I ſay to the contrary, he would have to be obſcured, or elſe he might have had the honeſty to have printed this Anſwer to his Second and Third Queries with the Queries thmſelves: for it hath been in the Hands of him, or his brethren above ſeven Years. Wherefore I ſhall now appeal to God and ſpiritually minded men to judge, Whe<g ref="char:EOLhyphen"/>ther
+<pb n="42" facs="tcp:60228:22"/>I, who did, &amp; do confeſs Chriſt's <hi>Glorious heavenly Body,</hi> or he who cannot diſcern it; but hold forth a <hi>Circumſcript human Body of Fleſh and Bones out of every believer, whilſt on Earth,</hi> we are Worthy to be rendered as <hi>denyers of the Bo<g ref="char:EOLhyphen"/>dy of Chriſt, and unfit to preach the Reſurrection, Aſcenſion and Second Coming of the Lord Jeſus Chriſt.</hi>
+               </p>
+               <p n="4">4. <hi>Query. Whether by the Words</hi> people of God <hi>thou meaneſt the Church of Chriſt in viſible profeſſion of the Goſpel according to the patern of the Churches in the Apoſtles Dayes?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> by the words <hi>People of God</hi> I mean ſuch, as are in the new Covenant of Light, in whoſe Heart God hath written his Laws, and in whoſe inward Parts he hath put his Fear, who know and believe Chriſt in them, and do hear his Voice, and follow him as their Head and Leader, as did the true Churches in the Apoſtles Dayes; but I do not believe every gathering of people, that are got into an outward or viſible Profeſſion of the Scriptures, and in Imitation have gotten into ſome outward things, which the true Church in the Apoſtles Dayes practiſed, are the People of God. becauſe I am ſenſible, ſuch as are Aliens in their minds from the Life of God, which the Apoſtles and primitive <hi>Chriſtians</hi> were in, may get their Words, and imitate them in Outward Forms, and Practiſes, whilſt they deny the Power of Godlineſs, which they lived in.</p>
+               <p>
+                  <hi>5th Query. Whether the People called</hi> Quakers <hi>are gathered, conſtituted and governed in Church-Capacity, accor<g ref="char:EOLhyphen"/>ding to the Doctrine of Chriſt and his Apoſtles?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Yea: for we are gathered in the Name of the Lord Jeſus Chriſt, who is preſent with us, as he pro<g ref="char:EOLhyphen"/>miſed to be <hi>alwayes to the end of the World;</hi> and we are governed by him, who is given to be the Head over all Things, to the Church, of which we are Members,
+<pb n="43" facs="tcp:60228:22"/>and have Elders ordained in every Country, who take the Over-ſight of the Flock of God not by Conſtraint, but willngly, and in the Power of the Lord Jeſus re<g ref="char:EOLhyphen"/>ceives True Believers, and rejects Hereticks, who have refuſed Admonition, according to the Apoſtle's Doctrine, <hi>who was an able Miniſter, not of the Letter, but of the Spirit.</hi> And notwithſtanding Chriſt's bidding the other Apoſtles before his Aſcenſion, <hi>Go, Teach and Baptize all Nations,</hi> ſaid: <hi>He was not ſent to Baptize, but to Preach the Goſpel;</hi> and how ye, who are ſo much for Water-Baptiſm, come to take your ſelves concerned to Baptize with Water by Virtue of that Commiſſion given before Chriſt's Aſcenſion, ye may do well to manifeſt; ſince the Apoſtle <hi>Paul</hi> did not ſo take himſelf concerned in it: but according to that Commiſſion, which he received from the Lord, who appeared unto him, delivering him from the People, and the <hi>Gentiles,</hi> he laboured <hi>to open the blind Eyes, and to turn them from Darkneſs to Light, and from Satan's power to God,</hi> Acts 16, 17, 18. as we do according to the Call and Precepts given us of the Lord, who is alſo manifeſt in us, by whom we are taught not to run, becauſe others were ſent; nor to act without Power from on High: but to go as we are led and commanded by the Lord, and act in the Motion of his Power, whereby we have been made a Sweet Savour to God in them that believe, and in them that periſh; though in one the Savour of Life unto Life, and in the other the Savour of Death unto Death: and God hath ſo bleſſed our Labour, that many Thouſands are brought to the Knowledge of the Son of God, and to Unity in the Faith, which gives Victory over the World, wherein they are growing to a perfect Man, and to the Meaſure, Fulneſs and Stature of Chriſt:
+<pb n="44" facs="tcp:60228:23"/>Though we thank God, we have Baptized none of them in Water, but have inſtructed them to the bleſſed Ap<g ref="char:EOLhyphen"/>pearing of the Lord. Jeſus Chriſt, who Baptized with the Holy Ghoſt and with Fire, having his Fan in his Hand, throughly to purge the Floor; and thoſe which have waited for the Appearing of the Lord, and recei<g ref="char:EOLhyphen"/>ved him to be their Leader, Way and Baptizer, are baptized with one Spirit into that one Body which is his Church, of which they are Living Members, fit<g ref="char:EOLhyphen"/>ly joyned together by Chriſt, who is their Head, who gives them Life, and ſills them with the Virtue of his Love, wherein they Ediſie one another. So Chriſt is the Door into the Sheep-ſold, whereat all that are accep<g ref="char:EOLhyphen"/>ted by him, do enter. And this way of gathering, con<g ref="char:EOLhyphen"/>ſtituting and governing the Church is according to the Doctrine of Chriſt, his Evangeliſts and Apoſtles, as ap<g ref="char:EOLhyphen"/>peareth at large in their Writings.</p>
+               <p>And although thou in thy 6th Query ſayſt, <hi>doubtleſs it is not,</hi> becauſe we are not gathered according to thy Apprehenſion of ſome particular Verſes quoted by thee. I muſt tell thee, thou therein takeſt that granted, which we never gave thee; and therefore we need ſhew no Au<g ref="char:EOLhyphen"/>thority for the Abrogating that Order of Gathering, Conſtituting and Governing the Church of Chriſt, which was in the Apoſtles dayes; ſince our Practice doth more eſtabliſh it in the Subſtantial Part, then yours, who have viſible Doors whereat to enter, as your <hi>Water-Baptiſm</hi> inſtead of <hi>Chriſt's Baptiſm,</hi> and other Ways where<g ref="char:EOLhyphen"/>at to climb up like Thieves and Robbers, <hi>Joh.</hi> 1. which ſteal the Saints words, and imitate their Practices, as in all Ages Falſe Prophets have imitated the True, and Falſe Worſhippers have imitated the True Worſhippers, as ye do; thinking becauſe Chriſt ſaid before his Aſcen<g ref="char:EOLhyphen"/>ſion,
+<pb n="45" facs="tcp:60228:23"/>
+                  <hi>Go teach all Nations, Baptizing them in the Name of the Father, Son and Holy Spirit;</hi> therefore <hi>Thomas Gran<g ref="char:EOLhyphen"/>tham</hi> and <hi>Ralph James</hi> muſt go Teach and Baptize in Wa<g ref="char:EOLhyphen"/>ter, though they have neither ſeen the Lord Jeſus Chriſt, nor heard him ſpeak. Nor will they believe in the holy Spirit, as the principal Guide, but have the Boldneſs to try its Doctrine or Teaching in theſe dayes by their own underſtanding of the Scriptures, which ever leads men to ſpeak Evil of, and condemn thoſe things, which they cannot underſtand to be according to Scriptures, though they be never ſo conſonant to the Mind of the Spirit, which they received which gave forth the Scriptures: And therefore, laying aſide all vain Jangling, we would perſwade you, and all men, to learn of Chriſt Jeſus, the Second Man, that is a Quickening Spirit, by whom ye are reproved, when ye do Evil, that ye may know his Mind in your ſelves, and do it, and then ye may better underſtand it, as declared by others.</p>
+               <p>Although thy <hi>Seventh Anti-Query</hi> is in part anſwered by what is before written, yet I ſhall now manifeſt, <hi>That</hi> Richard Anderſon <hi>neither was converſant with us, nor re<g ref="char:EOLhyphen"/>ceived our Doctrine, nor acted by that Spirit which guides us,</hi> as in that <hi>Query</hi> thou affirmeſt: for if he had been con<g ref="char:EOLhyphen"/>verſant with us, ſome of us at leaſt ſhould have known him; but that we never did, witneſs this <hi>Certificate</hi> from a Quarterly Meeting at <hi>Lincoln,</hi> who certainly know all that are or have been of us.</p>
+               <q>
+                  <pb n="46" facs="tcp:60228:24"/>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="minutes">
+                           <head>From a <hi>General Meeting</hi> of the People of God call'd <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> in the County of <hi>Lincoln,</hi> the 26th Day of the 4th Moneth, 1672.</head>
+                           <p>
+                              <hi>WHereas a Report is gone out of this County from</hi> Ralph James, <hi>and other Perſons, which have alwayes had a Prejudice againſt the Truth, and People of God call'd</hi> Quakers; <hi>by which Report the Nation is Abuſed, and thoſe which are over<g ref="char:EOLhyphen"/>credulous, made to believe a Lye, (viz.)</hi> That <hi>Richard Ander<g ref="char:EOLhyphen"/>ſon</hi> of <hi>Panton</hi> was a <hi>Quaker. Theſe are therefore to certifie, that the ſaid</hi> Richard Anderſon <hi>did never frequent any of our Meetings, nor did he ever joyn with us in Worſhip, nor was he ever owned by us, nor any of us; ſo that they have not any juſt Ground to call him a</hi> Quaker. <hi>And this Teſtimony we give forth to preſerve the Simple-hearted from being prejudiced againſt Truth, and from believing a Lye.</hi>
+                           </p>
+                           <closer>
+                              <dateline>Given forth at a Quarterly Meeting held at <hi>Lincoln,</hi> where ſome Friends from each Meeting in the County were preſent.</dateline>
+                              <signed>
+                                 <list>
+                                    <item>William Garland,</item>
+                                    <item>Abraham Morice,</item>
+                                    <item>William Everatt,</item>
+                                    <item>Joſeph Richardſon,</item>
+                                    <item>Auguſtin Smith,</item>
+                                    <item>John Winklep,</item>
+                                    <item>Samuel Hobman,</item>
+                                    <item>John Richardſon,</item>
+                                    <item>Tho. Summers,</item>
+                                    <item>Rich. Baxter,</item>
+                                    <item>John Walcot,</item>
+                                    <item>Tho. Sowter,</item>
+                                    <item>John Mills,</item>
+                                    <item>Joſeph Pope,</item>
+                                    <item>Thomas Wreſle,</item>
+                                    <item>William Aſhby,</item>
+                                    <item>William Hargate,</item>
+                                    <item>James Browne,</item>
+                                    <item>William Bowman,</item>
+                                    <item>Robert Browne,</item>
+                                    <item>Tho. Everatt,</item>
+                                    <item>Rich. Parnell,</item>
+                                    <item>Joſeph Wilſon.</item>
+                                 </list>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <pb n="47" facs="tcp:60228:24"/>
+               <p>And if <hi>Richard Anderſon</hi> had received our Doctrine, he had been Still and Quiet in the Light of God, till his Heart had been cleanſed from Ignorance, Pride and Wickedneſs; and that would have preſerved him from that Shame and Diſhonour, which his own Folly and Madneſs, and your Subtilty hath brought him to. And if he had been led by the ſame Spirit, that leads us, it would not have let him uſe his Tongue to ſay, <hi>The Lord ſaith,</hi> when the Lord had not ſpoken to him, but his own Imaginations in a groundleſs Imitation of the Scriptures, which Imaginations he followed; and therefore both the Spirit and Scriptures, and we, who are led thereby, are clear from all the Evil he hath done, and it lies at his and your Doors, amongſt whom he both before, then, and after walked; for he had not any Demonſtrable Character of being a <hi>Quaker</hi> (as in Reproach they were firſt called) nor may any be juſtly termed ſo, but thoſe that fear God, and tremble at his Word, who have be<g ref="char:EOLhyphen"/>lieved in the True Light, and live in God's Power, being exerciſed in Obedience to his Law written in the Heart, and in Self-denyal taking up the daily Croſs to their own Wills and Wiſdom, and in Silence to that waits on God, that they may worſhip in Spirit, and walk after the Spirit of God, by which they are Baptized into the Bo<g ref="char:EOLhyphen"/>dy of Chriſt, which is his Church, who receives them as <hi>li<g ref="char:EOLhyphen"/>ving Members,</hi> having the <hi>Savour of that Life, which the Spirit has given them.</hi> And no other way do we take. <hi>Members</hi> into the <hi>Church,</hi> but are conſtant in this, as is viſible to thoſe that are converſant with us, &amp; have the immortal Eye open'd. But we ſhut not our Doors to hinder any from coming into our Congregations to obſerve our Order and hear our Te<g ref="char:EOLhyphen"/>ſtimony: Yet as the Apoſtle ſaid concerning a <hi>Jew,</hi> I ſay concerning a <hi>Quaker, He is not one, that is one Outwardly in Shew only; but he is one, that is one Inwardly, whoſe</hi> Bap<g ref="char:EOLhyphen"/>tiſm
+<pb n="48" facs="tcp:60228:25"/>
+                  <hi>is that of the Spirit, and whoſe Praiſe is not of Men, but of God.</hi> But that <hi>Richard Anderſon</hi> was neither one <hi>Outwardly</hi> nor <hi>Inwardly,</hi> is ſufficiently made manifeſt by what hath been already ſaid.</p>
+               <p>In a Poſtſcript writ by this Author he ſeems to own the Light within, but hath ſufficiently ſhewed his Ig<g ref="char:EOLhyphen"/>norance of that <hi>True Light, which lighteth every Man that cometh into the World;</hi> as alſo of its Power and Effi<g ref="char:EOLhyphen"/>cacy, putting Darkneſs inſtead of Light, and then tells of ſeveral things that are wholly beyond the Com<g ref="char:EOLhyphen"/>mon Principle of Light, Underſtanding or Judgment of Man; which Light being of Man, is indeed Dark<g ref="char:EOLhyphen"/>neſs ſince the Fall, and therefore the things of God belonging to Man's Eternal Peace, are all ſo far beyond it, that the Natural Man with his own Light, Underſtan<g ref="char:EOLhyphen"/>ding or Judgment that he hath of himſelf as a Man, perceives them not. And therefore we diſwade Men from following their own Spirit, Underſtanding or Judg<g ref="char:EOLhyphen"/>ment, and perſwade them to receive and follow Chriſt Jeſus that True Light, which lighteth every man that cometh into the World, that he may give them an Un<g ref="char:EOLhyphen"/>derſtanding that is True, and a Judgment that is Sound: And beyond him, that was and is the <hi>True Light, that lighteth every man that cometh into the World,</hi> there is no<g ref="char:EOLhyphen"/>thing; for by him was All Things made; and whatſo<g ref="char:EOLhyphen"/>ever hath been known of God to Men, he hath ma<g ref="char:EOLhyphen"/>nifeſted or revealed it, though at ſundry Times and in divers Manners. And though Men have the Scriptures, which declare, what was revealed to Men by that true Light, and an Underſtanding or Judgment which is Natural; yet thereby there is not any, which truely know God, or what he requires of them, nor ever can they know him, till they turn to that true Light, which
+<pb n="49" facs="tcp:60228:25"/>ſhines in their Hearts, and is not of Man, but of God; who in his own Light, or Son, <hi>that lighteth every Man that cometh into the World,</hi> manifeſts and reveals himſelf, and his Will and Mind to Man, being wholly ſufficient, and alſo preſent <hi>to teach man in this Age, what belongs to their eter<g ref="char:EOLhyphen"/>nal Peace, as he was in Ages paſt;</hi> and alſo <hi>to give unto men poſitive Laws and Directions, how they muſt Worſhip and Serve him;</hi> being no more bound from altering or aboliſhing out<g ref="char:EOLhyphen"/>ward &amp; ſhaddowy things at firſt practiſed by ſome in the <hi>Church</hi> ſince the <hi>Coming of Chiſt,</hi> then he was from altering <hi>Circumciſion, Sacrifices</hi> &amp; other <hi>Jewiſh Orders</hi> &amp; <hi>Obſervances,</hi> which <hi>Moſes,</hi> &amp; ſome of the <hi>Prophets</hi> had ſaid <hi>ſhould continue ſorever,</hi> or <hi>throughout their Generations;</hi> but may lay aſide, and draw his <hi>People from outward Obſervations or viſible Signs and Shaddows of Things, when he ſees them Idolized or Abuſed, or that the Subſtance of them is come, as he did Circumciſion, Sacrifi<g ref="char:EOLhyphen"/>ces and Paſs-over.</hi> And therefore this <hi>Author</hi> ought not to <hi>limit him to outward Ordinances and Shaddows from Chriſt's Co<g ref="char:EOLhyphen"/>ming to the End of the World,</hi> no more then he was limited before <hi>Abraham</hi>'s time, or before the <hi>Coming of Chriſt:</hi> nor ought he to accuſe the <hi>Quakers, as oppoſing themſelves againſt things requir'd by the poſitive Laws, becauſe they cannot own his</hi> Water-Baptiſm <hi>&amp;</hi> Breaking of Bread <hi>in Imitation of the A<g ref="char:EOLhyphen"/>poſtles, and primitive</hi> Chriſtians; no more then the <hi>profeſſing Jews</hi> ought to have accus'd the <hi>Apoſtle Paul,</hi> and his <hi>Fellow-Labourers</hi> in the <hi>Goſpel,</hi> for <hi>denying the poſitive Laws,</hi> who by the <hi>Authority</hi> and <hi>Power of Chriſt</hi> in them cryed down their <hi>Circumciſion, Temple-worſhip, and that Hand writing of Ordi<g ref="char:EOLhyphen"/>nances, which was contrary to them.</hi> And as little Reaſon has he to accuſe us, ſince we only by the <hi>Power of the Lord</hi> cry down their <hi>Baptizing with Water</hi> by virtue of a Commiſſion, that was given to other men to <hi>Baptize into the Name of the Father, Son and Holy Spirit;</hi> which <hi>Baptizing with Water,</hi> and
+<pb n="50" facs="tcp:60228:26"/>other <hi>Imitations</hi> (not to be inferr'd thence) they ſo much <hi>Idoliz</hi>'d, as to tearm them <hi>the Way of Life above, and to deliver from Hell beneath,</hi> and preſs them as abſolutely neceſſary to Salvation, though they can ſhew us no Scriptures, which ſo terms them, and holds, them forth; and therefore ſhould they not as ſuch be received. So whilſt this <hi>Authour</hi> would prove us oppoſite to the poſitive Laws of God, and not ſincere favourers of the Light within; he is found in that ſtate himſelf, for as much as he puts mans Change<g ref="char:EOLhyphen"/>able Underſtanding and Judgement, which is Darkneſs, for Light, and thereby would ſo Obſcure the Glory and Luſtre of that true and unchangeable <hi>Light, which Lighteth every Man that comes into the World,</hi> as if there were many things, which he hath no Cogniſance or Knowledge of, though indeed no ſecret is hid from him, and as if he had no power now to teach and direct people in this day (contrary to fallible Mens apprehenſions of the Scriptures) how people ſhould worſhip and ſerve God? but were limited to outward and ſhaddowy things, which he calls poſitive Laws, when as indeed all who are gathered in the New Covenant, have the ſubſtance it ſelf, the Law in the Heart, to which they are to be Obedient, and know the Lord to be their Law giver and Leader, who is alſo a Light to the Gentiles, that he may be for Salvation to the ends of the Earth. Wherefore this Author and all people may do well to come to that Light, that therein they all may know God, from the leaſt to the greateſt, and be taught by him, leaſt truſting to their own natural under<g ref="char:EOLhyphen"/>ſtanding, and Judgment to perform worſhip to God, and not to his holy Spirit, which is but the Light of their own fire, they at laſt be forced to lye down in Sorrow.</p>
+               <closer>
+                  <dateline>
+                     <hi>Lincoln</hi> 
+                     <date>the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>2. <hi>day of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>th</hi> 11. <hi>Monteh</hi> 1672.</date>
+                  </dateline>
+                  <signed>John Whitche<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="52" facs="tcp:60228:26"/>
+               <head>Something added by C. H.</head>
+               <p>TO the Intent none may ſtumble concerning the Con<g ref="char:EOLhyphen"/>trariety, that appears by <hi>Certificates</hi> printed o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> both hands relating to <hi>Rich. Anderſon,</hi> let the Reader obſerve; I being in <hi>London</hi> the 7th of the 2d Moneth, 1673. met with <hi>Tho. Wilſon</hi> of <hi>Atherſtone</hi> in <hi>Warwickſhire,</hi> who has been reputed a <hi>Baptiſt Teacher</hi> for many years, who told me to this Effect, <hi>That he had been on purpoſe at</hi> Panton <hi>in</hi> Lincolnſhire <hi>to ſeek after the truth of the Matter; and ma<g ref="char:EOLhyphen"/>king inquiry of One of the Chief of that Place, as to the Credit of</hi> R. A. <hi>had this Anſwer returned; That he did believe, if the</hi> Quakers <hi>came one Day to</hi> R. A. <hi>whatſoever he did Say or Con<g ref="char:EOLhyphen"/>feſs to them, yet if the</hi> Baptiſts <hi>did come on the Morrow, he would ſay any thing) they would have him to ſay.</hi> Therefore all honeſt inquirers by this and other things, that do ap<g ref="char:EOLhyphen"/>pear ſo plain, may ſafely thus conclude, That the Foun<g ref="char:EOLhyphen"/>dation and Bottom of all the <hi>Baptiſts</hi> Building here in being found ſo Rotten and Deceitful, the whole Building there<g ref="char:EOLhyphen"/>upon is like unto it, and ſhall all fall down together, to the Shame and Confuſion of all ſuch, who hereby have made Lyes their Refuge, and fooliſhly taken the Name of the Lord in vain.</p>
+               <closer>
+                  <signed>C. H.</signed>
+               </closer>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
